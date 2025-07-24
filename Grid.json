@@ -1,0 +1,1487 @@
+
+[
+  {
+    "question": "Every Saturday, your mother prepares a pudding, isn't she ?",
+    "options": ["isn't she", "Every Saturday, your mother", "Prepares a pudding", "No error."],
+    "reference": "SSC CGL (Tier-II) 08.08.2022 Shift-II",
+    "answer": "isn't she",
+    "explanation": "In the above sentence 'doesn't she' will be used in place of isn't she because sentence is affirmative sentence of present indefinite tense. Hence question tag of present indefinite tense, singular helping verb, 'does' will be used. Since sentence is in positive. Hence question tag is in Negative. Note:– Question tag of positive sentence is in Negative and question tag of negative sentence is in positive. Correct sentence – Every Saturday, your mother prepares a pudding doesn't she?"
+  },
+  {
+    "question": "Your eldest sister/ lives in / a big city,/ does she?",
+    "options": ["a big city", "lives in", "does she", "Your eldest sister"],
+    "reference": "SSC CGL (Tier-I) 13/04/2022 Shift-I",
+    "answer": "does she",
+    "explanation": "In the above sentence 'doesn't she' will be used in place of 'does she' because question tag of positive sentence, is in Negative and question tag of Negative Sentence is in positive. Correct Sentence- Your eldest sister lives in a big city doesn't she?"
+  },
+  {
+    "question": "The education of girls/ is a primary concern for the country,/ so it should be started early,/isn't it?",
+    "options": ["The education of girls", "isn't it", "so it should be started early", "is a primary concern for the country"],
+    "reference": "SSC Constable GD-17/11/2021 Shift-II",
+    "answer": "isn't it",
+    "explanation": "In the above sentence 'Shouldn't it' will be used in place of 'isn't it' because Question tag of should is Shouldn't . Note – Question tag of positive sentence is in Negative and Negative Sentence is in positive. Correct Sentence - The education of girls is a primary concern for the country so it should be started early shouldn't it."
+  },
+  {
+    "question": "My friend / never tells / a lie, / doesn’t he?",
+    "options": ["My friend", "never tells", "dosen't he", "a lie"],
+    "reference": "SSC Constable GD-14/12/2021 Shift-II",
+    "answer": "dosen't he",
+    "explanation": "In the above sentence 'does he' will be used in place of 'doesn't he' because 'Never' gives Negative sense. Hence question tag will be positive. Correct sentence - My friend never tells a lie does he ?"
+  },
+  {
+    "question": "I am suitably dressed for the occasion, am I?",
+    "options": ["for the occasion", "am I", "I am", "suitably dressed"],
+    "reference": "SSC CPO-SI – 25/11/2020 (Shift-II)",
+    "answer": "am I",
+    "explanation": "In the above sentence 'aren't I' will be used in place of 'am I' because if 'am' is used in a positive sentence, its Negative question tag is 'aren't'. The question tag of positive sentence is Negative. Correct Sentence : I am suitably dressed for the occasion, aren't I?"
+  },
+  {
+    "question": "Ram never came again, did he?",
+    "options": ["Ram never", "Came", "did he", "No error"],
+    "reference": "SSC GD-14/02/2019 (Shift – I)",
+    "answer": "No error",
+    "explanation": "No error. Note:- The Question tag being positive or Negative depend on whether the sense of the sentence is positive or Negative. Since it is clear from the use of 'Never' in the sentence that the sentence is giving negative sence and it is clear from the use of came (V2) that the sentence is in past indefinite. Hence its question tag will be positive & Past Indefinite helping verb 'did' will be used. And the appropriate pronoun he will be used for Ram. Hence 'did he' will be used."
+  },
+  {
+    "question": "To treat nightmare disorder, there is a number of medications and therapies.",
+    "options": ["of medications and therapies", "To treat nightmare disorder", "there is a number", "No error"],
+    "reference": "SSC MTS 04/05/2023 (Shift-II)",
+    "answer": "there is a number",
+    "explanation": "There is error in part (c) because 'there are a number' will be used in the place of 'there is a number'. There is not the subject, the verb agrees with what follows the verb. A number→ Plural (verb) Thus, the correct answer is option (c)."
+  },
+  {
+    "question": "I am thirty-two years old and my sister are fifteen.",
+    "options": ["I am thirty-two", "years old and", "my sister are fifteen.", "No error"],
+    "reference": "SSC MTS 19/05/2023 (Shift-III)",
+    "answer": "my sister are fifteen.",
+    "explanation": "The segment of the above given sentence – ‘my sister are fifteen’ is grammatically error because the verb ‘is’ is used in the place of ‘are’ as the subject is singular. Singular subject + sing. Verb. Thus, the correct answer is option (c)."
+  },
+  {
+    "question": "Rapid climate warming in/the tundra biome have been linked/to increasing shrub dominance.",
+    "options": ["Rapid climate warming in", "No error", "the tundra biome have been linked", "to increasing shrub dominance."],
+    "reference": "SSC MTS 18/05/2023 (Shift-I)",
+    "answer": "the tundra biome have been linked",
+    "explanation": "The segment of the above given sentence – ‘the tundra biome have been linked’ is grammatically error, because the subject of the sentence is singular, singular verb (has been) is used in the place of plural verb (have been). The correct segment is- ‘the tundra biome has been linked’."
+  },
+  {
+    "question": "India’s claim to be a world leader in pharmaceuticals are heavily compromised.",
+    "options": ["world leader in pharmaceuticals", "No error", "are heavily compromised.", "India’s claim to be a"],
+    "reference": "SSC MTS 16/05/2023 (Shift-II)",
+    "answer": "are heavily compromised.",
+    "explanation": "The above given sentence the part (c) 'are heavily compromised' has grammatically error, because in this sentence, the subject is singular (India's) therefore the verb (is) is used in the place of 'are'. Thus the correct answer is (c)."
+  },
+  {
+    "question": "Jiten and Hiru loves to eat french fries for lunch.",
+    "options": ["French fries", "Loves", "Lunch", "Eat"],
+    "reference": "SSC GD 16/01/2023 (Shift-III)",
+    "answer": "Loves",
+    "explanation": "In the underlined part of the above sentence 'love' will be used in place of 'loves' because when two subjects (Jiten and Hiru) are joined by and then plural verb (love) is used. Correct Sentence - Jiten and Hiru love to eat french fries for lunch."
+  },
+  {
+    "question": "I were/ writing/ this poem/ last evening.",
+    "options": ["I were", "writing", "This poem", "Last evening"],
+    "reference": "SSC GD 08/02/2023 (Shift-IV)",
+    "answer": "I were",
+    "explanation": "In the given sentence of the above segment, 'I was' will be used in place of 'I were'. Because 'I' is used as singular number in past continuous tense. It is the first person pronoun. Hence the correct sentence is– 'I was writing this poem last evening'."
+  },
+  {
+    "question": "One of these / boxes have / the portrait / of the heiress.",
+    "options": ["of the heiress", "One of these", "the portrait", "boxes have"],
+    "reference": "SSC CGL (Tier-I) 20/07/2023 (Shift-I)",
+    "answer": "boxes have",
+    "explanation": "The most appropriate option is (d) because ‘boxes have’ is replaced by ‘boxes has’ because ‘one of’ is used as a singular Subject. Note- One of + plural subject + singular verb Thus, the correct answer is option (d)."
+  },
+  {
+    "question": "Neetu have been/ waiting for me/ since 10 o’clock / in the morning.",
+    "options": ["Neetu have been", "in the morning", "since 10 o’clock", "waiting for me"],
+    "reference": "SSC CGL (Tier-I) 14/07/2023 (Shift-I)",
+    "answer": "Neetu have been",
+    "explanation": "In the above sentence singular helping verb ‘has been’ will be used in the place of plural helping verb ‘have been’ because the subject of the sentence (Neetu) is singular. Correct sentence – Neetu has been waiting for since 100° clock in the morning."
+  },
+  {
+    "question": "She always / invite me / to / dinner.",
+    "options": ["to", "invite me", "She always", "dinner"],
+    "reference": "SSC CGL (Tier-I) 17/07/2023 (Shift-II)",
+    "answer": "invite me",
+    "explanation": "In the above sentence 'Invites' (singular verb) will be used in place of Invite (Plural verb) because subject (she) is singular . Hence singular verb will be used. Correct sentence :– She always invites me to dinner."
+  },
+  {
+    "question": "Bushfire have created havoc and exacerbated the conditions of animals in the forest.",
+    "options": ["Bushfire have created havoc", "and exacerbated the conditions", "No error", "of animals in the forest."],
+    "reference": "SSC CHSL (Tier-I) 17/03/2023 (Shift-IV)",
+    "answer": "Bushfire have created havoc",
+    "explanation": "In the above question 'has' will be used in place of 'have' because 'Bushfire' is Singular Subject. Hence Singular Verb (has) will be used."
+  },
+  {
+    "question": "Although people had been on watch and/ the watchkeepers were very tired/ everyone were up and buzzing.",
+    "options": ["No error", "the watchkeepers were very tired", "everyone were up and buzzing.", "Although people had been on watch and"],
+    "reference": "SSC CHSL (Tier-I) 15/03/2023 (Shift-III)",
+    "answer": "everyone were up and buzzing.",
+    "explanation": "In the above sentence ''was'' will be used in place of ''were'' because Singular verb is used after ''everyone''. Correct sentence- Although People had been on watch and the watch keepers were very tired, everyone was up and buzzing."
+  },
+  {
+    "question": "Plastic debris in the ocean can become coated with algae and other marine microbes that produces a chemical scent.",
+    "options": ["coated with algae and other", "marine microbes that produces a chemical scent.", "Plastic debris in the ocean can become", "No error"],
+    "reference": "SSC CHSL (Tier-I) 09/03/2023 (Shift-IV)",
+    "answer": "marine microbes that produces a chemical scent.",
+    "explanation": "In the above sentence \"Produce\" will be used in place of \"Produces\" because Relative pronoun 'that' is used for plural noun (marine microbes). Hence plural \"verb\" will be used. Note : By adding s/es to the main verb, it becomes a singular verb. Correct Sentence: Plastic debris in the ocean can become coated with algae and other marine microbes that produce a chemical scent."
+  },
+  {
+    "question": "From my experience in mountain climbing I have learn that physical fitness is very important.",
+    "options": ["I have learn", "from my experience", "is very important", "that physical fitness"],
+    "reference": "SSC Stenographer (Grade C & D) 12.11.2021 Shift-I",
+    "answer": "I have learn",
+    "explanation": "In the above sentence 'I have Learned' will be used in place of 'I have Learn' because after has/have/had the main verb is always used in V3 form. Present Past Past Infinitive Participle tense Participle learned learned To + Learn learning or learnt or learnt Correct Sentence - From my experience in mountain climbing. I have learned learnt that physical fitness is very important."
+  },
+  {
+    "question": "Apple growers in Himachal Pradesh says they are harvesting a bumper crop this year due to good weather conditions.",
+    "options": ["they are harvesting", "Apple growers in Himachal Pradesh says", "a bumper crop this year", "due to good weather conditions"],
+    "reference": "SSC Stenographer (Grade C & D) 12.11.2021 Shift-II",
+    "answer": "Apple growers in Himachal Pradesh says",
+    "explanation": "In the above sentence 'Apple growers in Himachal Pradesh Say' will be used in place of 'Apple growers in Himachal Pradesh Says' because the Subject (apple growers) of sentence is plural. Hence plural verb (say) will be used. Correct sentence– Apple growers in Himachal Pradesh say they are harvesting."
+  },
+  {
+    "question": "A pack of wolves/were chasing/the deer/in the forest.",
+    "options": ["A pack of wolves", "were chasing", "in the forest", "the deer"],
+    "reference": "SSC Stenographer (Grade C & D) 15.11.2021 Shift-II",
+    "answer": "were chasing",
+    "explanation": "In the above sentence, 'A pack of wolves' is a singular noun, singular verb is used with any singular Noun, So 'was' will be used in place of 'were'. Correct Sentence- A pack of wolves was chasing the deer in the forest."
+  },
+  {
+    "question": "A shop nearby/sell all the goods/of daily use.",
+    "options": ["A shop nearby", "No error", "Of daily use", "Sell all the goods"],
+    "reference": "SSC CGL (Tier-I) 19/04/2022 Shift-III",
+    "answer": "Sell all the goods",
+    "explanation": "In the above sentence 'Sells all the goods' will be used in place of 'Sell all the goods' because 'A shop' is singular subject so singular verb will be used. Correct Sentence- A Shop nearby (Sells) all the goods of daily use."
+  },
+  {
+    "question": "The contrast between / Britain and other countries / of Europe / are striking.",
+    "options": ["The contrast between", "Britain and other countries", "of Europe", "are striking"],
+    "reference": "SSC CGL (Tier-I) 18/04/2022 Shift-I",
+    "answer": "are striking",
+    "explanation": "In the above sentence 'is striking' will be used in place of 'are striking' because 'contrast' is a singular subject so singular verb 'is' will be used. Correct Sentence- The contrast between Britain and other countries of Europe is striking."
+  },
+  {
+    "question": "Every Saturday, / the workers gets / their weekly wages.",
+    "options": ["the workers gets", "Every Saturday", "No error", "their weekly wages"],
+    "reference": "SSC CGL (Tier-I) 18/04/2022 Shift-I",
+    "answer": "the workers gets",
+    "explanation": "In the above sentence 'workers get' will be used in place of 'workers gets' because plural verb (get) is used with plural subject. (the workers) Correct sentence– Every saturday. the workers get their weekly wages."
+  },
+  {
+    "question": "We ordered a Pizza/ which are one of/ my favourite foods.",
+    "options": ["No error", "We ordered a Pizza", "my favourite foods", "which are one of"],
+    "reference": "SSC CGL (Tier-I) 13/04/2022 Shift-III",
+    "answer": "which are one of",
+    "explanation": "In the above sentence 'is' will be used in place of 'are' because 'which' relative Pronoun is used for 'Pizza' which is singular, after that singular verb will be used so 'is' will be used in place of 'are'. Correct Sentence We ordered a pizza which is one of my favourite foods."
+  },
+  {
+    "question": "A significant number of students volunteers each year for environmental projects.",
+    "options": ["volunteers each year for", "No error", "A significant number of students", "environmental projects"],
+    "reference": "SSC MTS-07/07/2022 Shift-I",
+    "answer": "volunteers each year for",
+    "explanation": "In the above sentence ''volunteer each year for\" will be used in place of ''volunteers each year'' because plural verb (Volunteer) will be used for plural subject (A significant number of Students). Correct Sentence– A significant number of students volunteer each year for environmental projects."
+  },
+  {
+    "question": "People sometimes asks me / why carbon dioxide / is important for the climate.",
+    "options": ["is important for the climate", "why carbon dioxide", "No error", "People sometimes asks me"],
+    "reference": "SSC MTS-06/07/2022 Shift-II",
+    "answer": "People sometimes asks me",
+    "explanation": "In the above sentence ''people sometimes ask me'' will be used in place of \"people sometimes asks me\" because the subject of the sentence 'people' is plural. Hence the verb 'ask' (plural) will be used. Correct Sentence – People sometimes ask me why carbon dioxide is important for the climate."
+  },
+  {
+    "question": "Safety measures makes risky activities less risky.",
+    "options": ["risky activities", "No error", "Safety measures makes", "less risky"],
+    "reference": "SSC MTS-06/07/2022 Shift-III",
+    "answer": "Safety measures makes",
+    "explanation": "In the above sentence \"Safety measures make\" will be used in place of \"Safety measures makes\" because the subject of the sentence is Safety measures 'plural'. Hence the plural verb 'make' will be used Note – By adding's' to a verb, the verb become singular and to make it plural, 's' removed from it. Correct Sentence– Safety measures make risky activities less risky."
+  },
+  {
+    "question": "The App has been so well-developed / that it anticipate / all the customers’ needs.",
+    "options": ["that it anticipate", "No error", "The App has been so well - developed", "all the customer's needs"],
+    "reference": "SSC Constable GD-29/11/2021 Shift-II",
+    "answer": "that it anticipate",
+    "explanation": "In the above sentence \"that it anticipates\" will be used in place of \"that it anticipate\" because singular verb (Anticipates) is used after 'it'. Correct Sentence - The App has been so well - developed that it anticipates all the customers' needs."
+  },
+  {
+    "question": "The poet / and the author / is awarded / by the President.",
+    "options": ["The poet", "by the President", "is awarded", "and the author"],
+    "reference": "SSC Constable GD-24/11/2021 Shift-II",
+    "answer": "is awarded",
+    "explanation": "In the above sentence 'are' will be used in place of 'is' because when two subjects are joined by and, And 'the' (article) is used before both subjects then both subject considers they are different person/things and it will be a plural subject so plural verb will be used. Correct Sentence - The poet and the author are awarded by the president."
+  },
+  {
+    "question": "Even though Mahindra & Mahindra warn / consumers not to use low-standard engine oil, / people refuse to read the instructions / and damage their vehicles.",
+    "options": ["consumers not to use low standard engine oil", "people refuse to read the instructions", "and damage their vehicles", "Even though Mahindra & Mahindra warn"],
+    "reference": "SSC Constable GD-23/11/2021 Shift-III",
+    "answer": "Even though Mahindra & Mahindra warn",
+    "explanation": "In the above sentence \"Even though Mahindra & Mahindra warns\" will be used in place of 'Even though Mahindra & Mahindra warn' because Mahindra and Mahindra is a company and it is considered a singular Noun. Hence singular verb (V+s/es) will be used. Correct sentence - Even though Mahindra & Mahindra warns consumers Not to use low standard engine oil …………."
+  },
+  {
+    "question": "People has been warning in advance about the coming economic crisis.",
+    "options": ["People", "economic crisis", "in advance", "has been warning"],
+    "reference": "SSC CHSL (Tier-I) –15/04/2021 (Shift-I)",
+    "answer": "has been warning",
+    "explanation": "In the above sentence 'people have been' will be used in place of 'people has been' because plural verb (have) is used with people (plural subject). Correct sentence– People have been warning in advance about the coming economic crisis."
+  },
+  {
+    "question": "Neither Sam nor I are interested in attending the meeting.",
+    "options": ["are interested", "in attending", "Neither Sam nor I", "the meeting"],
+    "reference": "SSC CGL (Tier-II) 16/11/2020 (3 pm - 5 pm)",
+    "answer": "are interested",
+    "explanation": "In the above sentence 'am' will be used in place of 'are' because when two subjects are connected with neither ----- nor either ----- or then the verb is used according to the latter subject. (I) Correct sentence- Neither Sam nor I am interested in attending the meeting."
+  },
+  {
+    "question": "The venue for the wedding have not yet been finalised",
+    "options": ["been finalised", "have not yet", "The venue", "for the wedding"],
+    "reference": "SSC CGL (Tier-II) 16/11/2020 (3 pm - 5 pm)",
+    "answer": "have not yet",
+    "explanation": "In the above sentence Subject 'the venue' is in singular form. Hence verb also will be singular, so 'has' will be used in place of 'have'. Correct sentence- The venue for the wedding has not yet been finalised."
+  },
+  {
+    "question": "Neither Amit nor Raju are staying with his parents in Mumbai.",
+    "options": ["are staying", "in Mumbai", "with his parents", "Neither Amit nor Raju"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "are staying",
+    "explanation": "In the above sentence 'is staying' will be used in place of 'are staying' because when two Subjects are connected with either ------ or, Neither ---- nor then the verb is used according to the latter subject. (Raju) Correct sentence- Neither Amit nor Raju is staying with his parents in Mumbai."
+  },
+  {
+    "question": "The list of candidates to be called for the interview were put up on the board.",
+    "options": ["for the interview", "The list of candidates", "were put up on the board", "to be called"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "were put up on the board",
+    "explanation": "In the above sentence 'was' will be used in place of 'were' because the main Subject (The list) of the sentence is singular. Hence singular verb (was) will be used. Correct sentence- The list of candidates to be called for the interview was put up on the board."
+  },
+  {
+    "question": "One should be careful to re-read what they has written.",
+    "options": ["to re-read what", "be careful", "One should", "they has written"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "they has written",
+    "explanation": "In the above sentence 'they have written' will be used in place of 'they has written' because plural verb (have) will be used with plural subject (they). Correct sentence- One should be careful to re-read what they have written."
+  },
+  {
+    "question": "The box of paper clips are kept in the drawer.",
+    "options": ["are kept", "The box", "of paper clips", "in the drawer"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "are kept",
+    "explanation": "In the above sentence The main Subject 'The box' is singular. Hence singular verb 'is' will be used in the place of 'are'. Correct sentence- The box of paper clips is kept in the drawer."
+  },
+  {
+    "question": "Prema is the girl in my class who write beautiful poems.",
+    "options": ["Prema is the girl", "who write", "beautiful poems", "in my class"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "who write",
+    "explanation": "In the above sentence 'writes' will be used in place of 'write' because the subject (Prema) of the sentence is singular and relative pronoun 'who' is used for singular subject 'prema' hence 'who' will be treated as singular. Hence singular form of verb (V1 + s/es) will be used. Correct sentence- Prema is the girl in my class who writes beautiful poems."
+  },
+  {
+    "question": "Very few countries in the world is as big as India.",
+    "options": ["is", "Very few countries", "as big as", "in the world"],
+    "reference": "SSC Stenographer Grade C&D 05/02/2019 (3:5pm)",
+    "answer": "is",
+    "explanation": "In the above sentence 'are' will be used in place of 'is' because the subject (very few countries) of the sentence is plural. Hence plural verb (are) will be used in the place of 'is'. Correct sentence- Very few countries in the world are as big as India."
+  },
+  {
+    "question": "Neither Nita nor her sisters has applied for this job",
+    "options": ["nor her", "has applied", "Neither Nita", "for this job"],
+    "reference": "SSC Stenographer Grade C&D 05/02/2019 (3:5pm)",
+    "answer": "has applied",
+    "explanation": "In the above sentence 'have' will be used in place of 'has' because when two subjects are connected with neither ---- nor, either ---- or then the verb is used according to the latter subject. (her sisters) Correct sentence- Neither Nita nor her sisters have applied for this job."
+  },
+  {
+    "question": "Modern medicines has scored significant victories (1)/ against both infection and trauma- (2)/ the major causes of ill health and death. (3)/ No error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC CGL (Phase-II) 17/02/2018",
+    "answer": "1",
+    "explanation": "In the above sentence 'have' will be used in place of 'has' because the subject (Modern medicines) is plural. Hence plural verb (have) will be used. Correct sentence- Modern medicines have scored significant victories."
+  },
+  {
+    "question": "All of us were a little nervous when we came into this room today.",
+    "options": ["a little nervous when", "when we came into this room today.", "all of us were", "No error"],
+    "reference": "SSC CPO-SI – 23/11/2020 (Shift-I)",
+    "answer": "No error",
+    "explanation": "No error Note— The subject of the sentence 'All of us' is plural , So the use of 'were' is correct according to the Past sense. (ii) little/a little is used with uncountable nouns and few/a few are used with countable nouns."
+  },
+  {
+    "question": "Either Ramesh or Reema have the keys to the cupboard.",
+    "options": ["to the cupboard", "or Reema have", "the keys", "Either Ramesh"],
+    "reference": "SSC CPO-SI – 25/11/2020 (Shift-II)",
+    "answer": "or Reema have",
+    "explanation": "In the above sentence 'has' will be used in place of 'have' because if two subjects are joined with either ---- or then the verb is determined according to the subject that comes after or. Hence, according to 'Reema' the use of 'has' would be appropriate. Correct sentence- Either Ramesh or Reema has the keys to the cupboard."
+  },
+  {
+    "question": "He is over eighty and dare not read without glasses.",
+    "options": ["he is", "over eighty and", "without glasses", "dare not read"],
+    "reference": "SSC CPO-SI – 25/11/2020 (Shift-II)",
+    "answer": "dare not read",
+    "explanation": "In the above sentence 'can not' will be used in place of 'dare not' because the use of 'can not' (capacity) gives the appropriate meaning according to the sense of sentence. Correct sentence- He is over eighty and can not read without glasses."
+  },
+  {
+    "question": "Our new secretary’s performance have been quite impressive.",
+    "options": ["secretary’s performance", "quite impressive", "have been", "our new"],
+    "reference": "SSC CPO-SI – 23/11/2020 (Shift-II)",
+    "answer": "have been",
+    "explanation": "In the above sentence 'has been' will be used in place of 'have been' because 'Our New Secretary's performance' is a singular Subject. Hence singular verb 'has been' will be used after it. Correct sentence- Our new secretary’s performance has been quite impressive."
+  },
+  {
+    "question": "Every employee of the company were given a two bedroom flat as Diwali bonus.",
+    "options": ["a two bedroom flat", "as Diwali bonus", "Every employee", "were given"],
+    "reference": "SSC CGL (Tier-I) – 06/06/2019 (Shift-I)",
+    "answer": "were given",
+    "explanation": "In the above sentence, Every employee of the company is used as singular Noun, so 'was' will be used in place of 'were' Every Singular noun Singular Verb+ + Correct Sentence : Every employee of the company was given a two bedroom flat as Diwali bonus."
+  },
+  {
+    "question": "Each of the girls have given an impressive dance performance.",
+    "options": ["have given", "Each of the girls", "an impressive", "dance performance"],
+    "reference": "SSC CGL (Tier-I) – 07/06/2019 (Shift-III)",
+    "answer": "have given",
+    "explanation": "In the above sentence singular verb 'has given' will be used in place of plural verb 'have given' because after the Distributive pronoun each of / either of /Neither of Plural Noun/ Pronoun is used but the auxiliary verb is singular. Each of / Neither of Plural subject Singular verb+ + Correct Sentence Each of the girls has given an impressive dance performance."
+  },
+  {
+    "question": "The Doon Valley with all its lights look beautiful at night from the top of the mountain.",
+    "options": ["look beautiful", "from the top", "at night", "with all its lights"],
+    "reference": "SSC CGL (Tier-I) – 07/06/2019 (Shift-II)",
+    "answer": "look beautiful",
+    "explanation": "In the above sentence The main subject 'The Doon Valley is singular, hence the sentence being in present Indefinite tense, the singular verb 'Looks' will be used by adding s/es at the end of the main verb. Correct Sentence The Doon Valley with all its lights looks beautiful at night from the top of the mountain."
+  },
+  {
+    "question": "The match is about to begin since the captain as well as the team are on the field.",
+    "options": ["are on the field", "The matchis about to begin", "since the captain", "as well as the team"],
+    "reference": "SSC CGL (Tier-I) – 10/06/2019 (Shift-II)",
+    "answer": "are on the field",
+    "explanation": "In the above sentence 'is' will be used in place of 'are' because when two subjects are connected with' as well as, like, with, besides, together with, no less than, etc then the verb is used according to the first Subject. (The captain) Correct Sentence The match is about to begin since the captain as well as the team is on the field."
+  },
+  {
+    "question": "Cows are amongst the gentlest of animals; none shows more passionate tenderness towards their young.",
+    "options": ["Cows are amongst", "towards their young", "none shows more", "the gentlest of animals"],
+    "reference": "SSC CGL (Tier-I) – 13/06/2019 (Shift-I)",
+    "answer": "none shows more",
+    "explanation": "In the above sentence plural verb 'Show' will be used in place of singular verb 'shows' because the verb coming after 'None' will be Singular or Plural depending on the type of subject. In case of Singular Subject, singular verb will be used and in case of plural Subject, Plural verb will be used. and here 'no he' is used for cows (plural). Correct Sentence Cows are amongst the gentlest of animals; none show more passionate tenderness towards their young."
+  },
+  {
+    "question": "The cost of fruits and vegetables have risen abnormally this month.",
+    "options": ["have risen", "The cost of", "this month", "abnormally"],
+    "reference": "SSC CGL (Tier-I) – 13/06/2019 (Shift-I)",
+    "answer": "have risen",
+    "explanation": "In the above sentence, 'has' will be used instead of 'have' because the main subject is 'the cost'. Which is singular. hence the following verb will be singular accordingly. Hence has will be used. Correct sentence - The cost of fruits and vegetables has risen abnormally this month."
+  },
+  {
+    "question": "Friction reduce the efficiency of machines so their value also gets reduced.",
+    "options": ["Friction reduce", "also gets reduced.", "the efficiency of machines", "so their value"],
+    "reference": "SSC CGL (Tier-I) – 19/06/2019 (Shift-III)",
+    "answer": "Friction reduce",
+    "explanation": "In the above sentence 'Friction reduces' will be used in place of 'Friction reduce' because friction is singular uncountable Noun, so singular verb (reduces) will be used. Correct sentence- Friction reduces the efficiency of machines so their value also gets reduced."
+  },
+  {
+    "question": "I am sure that neither Juhi nor Jaya are responsible for breaking the vase.",
+    "options": ["neither Juhi nor Jaya", "are responsible", "for breaking the vase", "I am sure that"],
+    "reference": "SSC CGL (Tier-I) – 19/06/2019 (Shift-III)",
+    "answer": "are responsible",
+    "explanation": "In the above sentence 'is responsible' will be used in place of 'are responsible' because when two subjects are connected with neither ----- nor either ---- or then the verb 'is' used according to the Letter Subject. (Jaya) which is singular. Correct sentence - I am sure that neither Juhi nor Jaya is responsible for breaking the vase."
+  },
+  {
+    "question": "There is many modes of travel to go to Agra but I prefer road travel.",
+    "options": ["to go to", "prefer road travel", "Agra but I", "There is many modes"],
+    "reference": "SSC CGL (Tier-I) – 12/06/2019 (Shift-III)",
+    "answer": "There is many modes",
+    "explanation": "The main subject of the sentence is Many modes of travel which is plural, so helping verb will be also plural. Note- If any sentence starts with Introductory subject 'there' then the main subject is used after 'verb'. Correct Sentence- There are many modes of travel to go to Agra but I prefer road travel."
+  },
+  {
+    "question": "Ten kilometers are a long distance to cover on foot for a child.",
+    "options": ["Ten kilometers are", "for a child", "to cover on foot", "a long distance"],
+    "reference": "SSC CGL (Tier-I) – 11/06/2019 (Shift-I)",
+    "answer": "Ten kilometers are",
+    "explanation": "In the above sentence 'Ten kilometers is' will be used in place of 'Ten kilometers are' because 'Ten kilometers is used as a unit so it is considered as a singular subject. so singular verb (is) is used after it'. Correct Sentence- Ten kilometers is a long distance to cover on foot for a child."
+  },
+  {
+    "question": "The child along with his parents were waiting for the programme to begin.",
+    "options": ["The child", "along with his parents", "programme to begin", "were waiting for the"],
+    "reference": "SSC CGL (Tier-I) – 11/06/2019 (Shift-III)",
+    "answer": "were waiting for the",
+    "explanation": "In the above sentence 'was waiting for the' will be used in place of 'were waiting for the' because when two subject are connected with as well as', with, together with, along with etc the verb is used to according to the first subject. (The child) Correct Sentence- The child along with his parents was waiting for the programme to begin."
+  },
+  {
+    "question": "Note down my phone number in case you needs to ring me up.",
+    "options": ["Note down", "to ring me up", "my phone number", "in case you needs"],
+    "reference": "SSC CPO-SI – 09/12/2019 (Shift-II)",
+    "answer": "in case you needs",
+    "explanation": "In the above sentence 'need' (Plural verb) will be used in place of needs (Singular verb) because the subject (you) of the sentence is in plural Number. Correct Sentence- Note down my phone number in case you need to ring me up."
+  },
+  {
+    "question": "Saurav Ganguly have emerged as the new President of the BCCI after a night long discussion.",
+    "options": ["Saurav Ganguly have emerged", "as the new President", "of the BCCI", "after a night long discussion"],
+    "reference": "SSC CPO-SI – 11/12/2019 (Shift-I)",
+    "answer": "Saurav Ganguly have emerged",
+    "explanation": "In the above sentence Singular verb 'has' will be used in place of plural verb 'have' because the subject (Saurav Ganguly) of the sentence is in Singular Number. Correct sentence- Saurav Ganguly has emerged as the new President of the BCCI after a night long discussion."
+  },
+  {
+    "question": "The monsoon have, in the past five days, retreated from most parts of the country.",
+    "options": ["No error", "The monsoon have", "retreated from most parts", "in the past five days"],
+    "reference": "SSC CPO-SI – 12/12/2019 (Shift-I)",
+    "answer": "The monsoon have",
+    "explanation": "In the above Sentence 'The monsoon has' will be used in place of 'The monsoon have' because 'Monsoon' is an uncountable Noun, So Singular verb (has) will be used for it. Correct sentence- The monsoon has, in the past five days, retreated from most parts of the country."
+  },
+  {
+    "question": "Only one copy of the book, running into 1200 pages, on Gandhiji's visit to the State of Andhra Pradesh, remain now.",
+    "options": ["running into 1200 pages", "remain now", "only one copy of the book", "on Gandhiji's visit to the State"],
+    "reference": "SSC CPO-SI – 13/12/2019 (Shift-II)",
+    "answer": "remain now",
+    "explanation": "In the above sentence singular verb 'Remains' will be used in place of Plural verb 'Remain' because the Subject (only one copy) of the sentence is singular. Correct sentence- Only one copy of the book, running into 1200 pages, on Gandhiji's visit to the State of Andhra Pradesh, remains now."
+  },
+  {
+    "question": "The two states frequently has differences over the use of the river water especially during the summer months.",
+    "options": ["has differences", "over the use of the river water", "especially during the summer months", "The two states frequently"],
+    "reference": "SSC CHSL (Tier-I) –09/07/2019 (Shift-III)",
+    "answer": "has differences",
+    "explanation": "In the above sentence 'have differences' will be used in place of 'has differences' because the subject (Two states) of the Sentence is plural. Hence plural verb 'have' will be used. Correct sentence- The two states frequently have differences over the use of the river water especially during the summer months."
+  },
+  {
+    "question": "The members of the victorious football team as well as the captain was congratulated.",
+    "options": ["was congratulated", "as well as the captain", "The members of the", "victorious football team"],
+    "reference": "SSC CHSL (Tier-I) –05/07/2019 (Shift-II)",
+    "answer": "was congratulated",
+    "explanation": "In the above sentence Plural helping verb 'were' will be used in place of singular helping verb 'was' because when two subjects are connected with as well as, with, like, besides etc the verb is used according to the first subject. (football team) Correct sentence- The members of the victorious football team as well as the captain were congratulated."
+  },
+  {
+    "question": "Each of the pictures have been signed by the football star.",
+    "options": ["the pictures", "Each of", "have been", "signed by"],
+    "reference": "SSC CHSL (Tier-I) –05/07/2019 (Shift-III)",
+    "answer": "have been",
+    "explanation": "In the above Sentence 'has been' will be used in place of ' have been' because each of, either of, always followed by plural Noun and Singular verb (has). Each of / Either Of / Neither of Plural Noun Singular verb+ + Correct Sentence- Each of the pictures has been signed by the football star."
+  },
+  {
+    "question": "The number of visitors at the fair were much larger than expected.",
+    "options": ["than expected", "were much larger", "the number of", "visitors at the fair"],
+    "reference": "SSC CHSL (Tier-I) –04/07/2019 (Shift-II)",
+    "answer": "were much larger",
+    "explanation": "In the above Sentence 'was much larger' will be used in place of 'were much larger' because the main subject (the number) of the sentence is singular. Hence singular verb (was) will be used. Correct Sentence- The number of visitors at the fair was much larger than expected."
+  },
+  {
+    "question": "The promoters of Med Hospitals has agreed to sell their business to Pal Hospitals.",
+    "options": ["The promoters of", "to sell their business", "Med Hospitals has agreed", "to Pal Hospitals"],
+    "reference": "SSC CHSL (Tier-I) –03/07/2019 (Shift-I)",
+    "answer": "Med Hospitals has agreed",
+    "explanation": "In the above Sentence 'have agreed' will be used in place of 'has agreed' because the main subject (promoters) of the sentence is plural. Hence plural verb (have) will be used. Correct Sentence- The promoters of Med. Hospitals have agreed to sell their business to Pal Hospitals."
+  },
+  {
+    "question": "Many of China's exports has been redirected to the domestic market in view of the more consumption-driven economy.",
+    "options": ["has been redirected", "Many of China's exports", "in view of the more consumption-driven economy", "to the domestic market"],
+    "reference": "SSC CHSL (Tier-I) –03/07/2019 (Shift-II)",
+    "answer": "has been redirected",
+    "explanation": "In the above sentence 'have been redirected' will be used in place of 'has been redirected' because the subject 'exports' is plural. Hence plural verb 'have' will be used. Note- Many a +singular noun + singular Verb Correct Sentence- Many of China's exports have been redirected to the domestic market in view of the more consumption-driven economy."
+  },
+  {
+    "question": "The Cannes Film Festival attract some of the world's most famous people.",
+    "options": ["The Cannes Film Festival", "most famous people", "attract some of", "the world's"],
+    "reference": "SSC CHSL (Tier-I) –02/07/2019 (Shift-III)",
+    "answer": "attract some of",
+    "explanation": "In the above sentence 'attracts' will be used in place of 'attract' because the main subject (The Cannes film festival) is singular. Hence singular verb (attracts) will be used. Correct Sentence- The Cannes film festival attracts some of the world's most famous people."
+  },
+  {
+    "question": "The environment protection policy need to become stricter if we wish to combat climate change.",
+    "options": ["The environment protection policy", "need to become stricter", "combat climate change", "if we wish to"],
+    "reference": "SSC CHSL (Tier-I) 16/10/2020 (Shift-II)",
+    "answer": "need to become stricter",
+    "explanation": "In the above sentence 'needs to become stricter' will be used in place of 'need to become stricter' because the main subject 'The Environment protection policy' is singular. Hence singular verb ' needs' will be used. Correct Sentence- The environment protection policy needs to become stricter if we wish to combat climate change."
+  },
+  {
+    "question": "Plenty of people likes to celebrate New Year's eve with their family and friends.",
+    "options": ["likes to celebrate", "Plenty of people", "New year's eve with", "their family and friends"],
+    "reference": "SSC CHSL (Tier-I) 17/03/2020 (Shift-II)",
+    "answer": "likes to celebrate",
+    "explanation": "In the above sentence 'like' will be used in place of 'likes' because the noun used after 'plenty of' is plural so verb will also be used in plural form. Plenty of Countable plural noun Plural verb Plenty of Uncountable noun Singular verb + + + + Note-Hate, stop, finish, enjoy, prefer, keep, like + present participle (–ing form of verb) Correct Sentence- Plenty of people like celebrating New Year's eve with their family and friends."
+  },
+  {
+    "question": "Scientist have recently announced that a more effective antidote for snake bite venom has been made.",
+    "options": ["Scientist have", "for snake bite venom has been made", "recently announced", "that a more effective antidote"],
+    "reference": "SSC CHSL (Tier-I) 13/10/2020 (Shift-I)",
+    "answer": "Scientist have",
+    "explanation": "In the above sentence 'has' will be used in place of 'have' because scientist is a singular subject, Hence the verb will also be in singular. Correct Sentence- \"Scientist has recently announced that a more effective antidote for snakebite venom has been made.\""
+  },
+  {
+    "question": "Everyone are very well equipped with his own weapons.",
+    "options": ["Everyone are", "very well equipped", "own weapons", "with his"],
+    "reference": "SSC CHSL (Tier-I) 19/03/2020 (Shift-I)",
+    "answer": "Everyone are",
+    "explanation": "In the above sentence 'Everyone is' will be used in place of 'Everyone are' because each one, everyone etc. is used as singular subject. Hence helping verb will be in singular (is). Correct Sentence- Everyone is very well equipped with his own weapons."
+  },
+  {
+    "question": "The simplest way to get proper recognition are through doing things with dedication and sincerity.",
+    "options": ["are through doing things", "The simplest way", "to get proper recognition", "with dictation and sincerity"],
+    "reference": "SSC CHSL (Tier-I) 18/03/2020 (Shift-III)",
+    "answer": "are through doing things",
+    "explanation": "In the above sentence subject 'The simplest way is in singular form, so the verb will also be in singular. Hence 'is through doing things' will be used in place of 'are through doing things'. Correct Sentence- The simplest way to get proper recognition is through doing things with dedication and sincerity."
+  },
+  {
+    "question": "Thomas is a man of word who have been paying back the borrowed money in instalments.",
+    "options": ["who have been paying back", "in instalments", "Thomas is a man of word", "the borrowed money"],
+    "reference": "SSC CHSL (Tier-I) 18/03/2020 (Shift-I)",
+    "answer": "who have been paying back",
+    "explanation": "In the above sentence 'Who has been playing back' will be used in place of 'Who have been playing back' because pronoun 'who' is used for the subject 'Thomas' which is singular. Hence singular verb (has) will be used. Correct sentence- Thomas is a man of word who has been paying back the borrowed money in instalments."
+  },
+  {
+    "question": "The neighbourhood were getting disturbed with the loud music that was playing at the wedding party in the big bungalow.",
+    "options": ["at the wedding party", "in the big bungalow", "that was playing", "The neighbourhood were getting disturbed"],
+    "reference": "SSC CHSL (Tier-I) 15/10/2020 (Shift-III)",
+    "answer": "The neighbourhood were getting disturbed",
+    "explanation": "In the above sentence 'The neighbourhood was getting disturbed' will be used in place of 'The neighbourhood were getting disturbed' because the subject of the sentence 'neighbourhood' is uncountable Noun. Hence singular verb (was) will be used. Correct sentence- The neighbourhood was getting disturbed with the loud music that was playing at the wedding party in the big bungalow."
+  },
+  {
+    "question": "Someone have walked away with my umbrella.",
+    "options": ["away with", "Someone", "have walked", "my umbrella"],
+    "reference": "SSC CHSL (Tier-I) 19/10/2020 (Shift-III)",
+    "answer": "have walked",
+    "explanation": "In the above sentence 'has walked' will be used in place of 'have walked' because someone, each, one etc if used as a subject then singular verb is used with them. Correct sentence- Someone has walked away with my umbrella."
+  },
+  {
+    "question": "Soni take her daughter to the park in the evening in a stroller.",
+    "options": ["Soni take her daughter", "to the park", "in a stroller", "in the evening"],
+    "reference": "SSC CHSL (Tier-I) 20/10/2020 (Shift-II)",
+    "answer": "Soni take her daughter",
+    "explanation": "In the above sentence 'Soni takes her daughter' will used in place of 'Soni take her daughter' because Soni is in singular Number. Hence singular verb (takes) will be used. Since the sentence is in present indefinite tense. Verb is made singular by adding 's/es' in the end of the verb. Correct sentence- Soni takes her daughter to the park in the evening in a stroller."
+  },
+  {
+    "question": "Everyone are asking for passes to the music festival at Nehru Park.",
+    "options": ["at Nehru Park", "for passes", "to the music festival", "Everyone are asking"],
+    "reference": "SSC CHSL (Tier-I) 19/10/2020 (Shift-II)",
+    "answer": "Everyone are asking",
+    "explanation": "In the above sentence \"Everyone is asking\" will be used in place of \"Everyone are asking\" because if each, Everyone, one etc used as a singular subject then the verb is used in singular form. Correct sentence- Everyone is asking for passes to the music festival at Nehru Park."
+  },
+  {
+    "question": "Some of the issues discussed on the media nowadays has no relevance to the nation-building process.",
+    "options": ["on the media nowadays", "to the nation-building process", "some of the issues discussed", "has no relevance"],
+    "reference": "SSC CHSL (Tier-I) 19/03/2020 (Shift-II)",
+    "answer": "has no relevance",
+    "explanation": "In the above sentence 'have no relevance' will be used in place of 'has no relevance' because the subject (Some of the issues) of the sentence is plural. hence plural verb (have) will be used. Correct sentence- Some of the issues discussed on the media nowadays have no relevance to the nation-building process."
+  },
+  {
+    "question": "Your skill lie in cheering up people who are stressed out, wound up or generally just annoyed.",
+    "options": ["Your skill lie", "who are stressed out wound up", "or generally just annoyed", "in cheering up people"],
+    "reference": "SSC CHSL (Tier-I) 12/10/2020 (Shift-I)",
+    "answer": "Your skill lie",
+    "explanation": "In the above sentence 'your skill lies' will be used in place of 'your skill lie' because the subject ' your skill' is singular Noun. Hence singular verb (Lies) will be used. Verb is made singular by adding 's/es'. Correct sentence- Your skill lies in cheering up people who are stressed out, wound up or generally just annoyed."
+  },
+  {
+    "question": "Sterling is only twenty four but have achieved so much in his professional football career.",
+    "options": ["but have achieved so much", "in his professional football career", "No error", "Sterling is only twenty four"],
+    "reference": "SSC MTS – 05/08/2019 (Shift-III)",
+    "answer": "but have achieved so much",
+    "explanation": "In the above sentence 'but has achieved so much' will be used in place of 'but have achieved so much' because the subject (Sterling) is singular. Hence singular verb 'has' will be used. Correct sentence- Sterling is only twenty four but has achieved so much in his professional football career."
+  },
+  {
+    "question": "The doctor with his interns are due to arrive here by noon./No error",
+    "options": ["interns are due", "No error", "The doctor with his", "to arrive here by noon"],
+    "reference": "SSC MTS – 05/08/2019 (Shift-II)",
+    "answer": "interns are due",
+    "explanation": "In the above sentence 'is' will be used in place of 'are' because the main subject 'the doctor' is singular. Hence singular verb will be used. Correct sentence- The doctor with his interns is due to arrive here by noon."
+  },
+  {
+    "question": "Virat Kohli is one of the best batsmen that world have seen.",
+    "options": ["Virat Kohli is", "one of the best", "world have seen", "batsmen that the"],
+    "reference": "SSC MTS – 22/08/2019 (Shift-I)",
+    "answer": "world have seen",
+    "explanation": "In the sentence singular verb 'has' will be used in place of plural verb \"have\" because 'that' is used for 'Virat Kohli' and it is singular Noun and singular verb is used after singular Noun. Correct sentence- [Virat Kohli is one of the best batsmen that world has seen]"
+  },
+  {
+    "question": "One of the friends were doubtful that the plan would work.",
+    "options": ["that the plan", "were doubtful", "would work", "one of the friends"],
+    "reference": "SSC MTS – 20/08/2019 (Shift-III)",
+    "answer": "were doubtful",
+    "explanation": "In the above sentence 'was doubtful' will be used in place of 'were doubtful' because plural Noun and singular verb is used after 'one of the'. One of the Plural noun Singular verb+ + Correct sentence- ''One of the friends was doubtful that the plan would work.''"
+  },
+  {
+    "question": "Each of these players have been warned not to repeat the silly mistakes.",
+    "options": ["Each of these players", "the silly mistakes", "warned not to repeat", "have been"],
+    "reference": "SSC MTS – 16/08/2019 (Shift-III)",
+    "answer": "have been",
+    "explanation": "In the above sentence singular verb 'has been' used in place of plural verb 'have been' because each of either of, Neither of always followed by plural Noun and singular verb. Each of / Either of / Neither of Plural noun Singular verb+ + Correct sentence- Each of these players has been warned not to repeat the silly mistakes."
+  },
+  {
+    "question": "A Superintendent of Police have the authority to suspend an inspector.",
+    "options": ["authority to suspend", "have the", "A Superintendent of Police", "an inspector"],
+    "reference": "SSC MTS – 16/08/2019 (Shift-I)",
+    "answer": "have the",
+    "explanation": "In the above sentence 'A superintendent of police is a singular subject and singular verb always used with singular subject. Hence singular verb 'has' will be used in place of plural verb 'have'. Correct sentence- A Superintendent of Police has the authority to suspend an inspector."
+  },
+  {
+    "question": "The mother as well as her children were brought to the police station for interrogation.",
+    "options": ["her children were brought", "to the police station", "for interrogation", "The mother as well as"],
+    "reference": "SSC MTS – 14/08/2019 (Shift-II)",
+    "answer": "her children were brought",
+    "explanation": "In the above sentence 'her children was brought' will be used in place of her children were brought' because when Two nouns are connected with \"as well as\" then the verb is used according to the first Noun (Mother) which is singular. Hence singular verb (was) will be used. Correct sentence- The mother as well as her children was brought to the police station for interrogation."
+  },
+  {
+    "question": "It take her a long time to get over her failure in the examination./ No error",
+    "options": ["long time to get over", "her failure in the examination", "No error", "It take her a"],
+    "reference": "SSC MTS – 07/08/2019 (Shift-III)",
+    "answer": "It take her a",
+    "explanation": ": In the above sentence singular verb 'takes' will be used in place of plural verb 'take' because Pronoun 'it' is singular and singular verb used for it. Correct sentence- [It takes her a long time to get over her failure in the examination]."
+  },
+  {
+    "question": "The 91 year old lady have been a fan of cricket for decades./No error",
+    "options": ["of cricket for decades", "No error", "The 91 year old lady", "have been a fan"],
+    "reference": "SSC MTS – 06/08/2019 (Shift-II)",
+    "answer": "have been a fan",
+    "explanation": "In the above sentence 'has been a fan' will be used in place of 'have been a fan' because the subject' The 91 year old lady' of The sentence is singular. Hence singular verb 'has' will be used for it. Correct Sentence- The 91 year old lady has been a fan of cricket for decades."
+  },
+  {
+    "question": "The constitutional order on which the Indian State run is that there shall be no discrimination on the basis of religion.",
+    "options": ["There shall be", "order on which", "on the basis of", "Indian State run"],
+    "reference": "SSC GD – 02/03/2019 (Shift-II)",
+    "answer": "Indian State run",
+    "explanation": "In the above sentence 'Indian state runs' will be used in place of 'Indian state run' because the subject \"The Indian state\" is singular. Hence singular verb (runs) will be used. Correct sentence- The constitutional order on which the Indian State runs is that there shall be no discrimination on the basis of religion."
+  },
+  {
+    "question": "We must visit this ancient temple which are a hundred years old.",
+    "options": ["this ancient temple", "a hundred years old", "We must visit", "which are"],
+    "reference": "SSC GD – 18/02/2019 (Shift-III)",
+    "answer": "which are",
+    "explanation": "'This ancient temple' used in above sentence is in singular number, so after which it would be appropriate to use singular verb 'is' in place of plural verb 'are' because 'which' is relative pronoun used for 'this ancient temple'. correct sentence - We must visit this ancient temple which is a hundred years old."
+  },
+  {
+    "question": "The researchers have found that all species makes a constructive contribution to the ecology of the earth.",
+    "options": ["a construction contribution to", "that all species makes", "the ecology of the earth", "The researchers have found"],
+    "reference": "SSC GD – 18/02/2019 (Shift-II)",
+    "answer": "that all species makes",
+    "explanation": "In the above sentence 'That all species make' will be used in place of \"that all species makes\" because plural verb (make) will be used according to plural subject 'all species'. Note— Assertive sentence of Present Indefinite tense is formed by adding s/es at the end of the verb to make singular verb. Correct sentence - The researchers have found that all species make a constructive contribution to the ecology of the earth."
+  },
+  {
+    "question": "The population of Sri Lanka are less than that of India.",
+    "options": ["than that", "Sri Lanka are", "of India", "The population"],
+    "reference": "SSC GD – 11/02/2019 (Shift-II)",
+    "answer": "Sri Lanka are",
+    "explanation": "In the above sentence subject 'The population' is in singular, hence the use of helping verb will be in singular. So in the place of plural verb 'are' use of singular verb 'is' would be appropriate. Correct sentence - The population of Sri Lanka is less than that of India."
+  },
+  {
+    "question": "There is no big deal if she didn't came to the party.",
+    "options": ["came to the party", "No error", "There is no big", "deal if she didn't"],
+    "reference": "SSC MTS 04/05/2023 (Shift-II)",
+    "answer": "came to the party",
+    "explanation": "For the above given parts of sentence part (a) will be incorrect because did not come did + not + VI is used in the place of didn't came (didn't + v2). Thus, the correct answer is option (a)."
+  },
+  {
+    "question": "Her bookstore flourished/because/she picks/ a good location.",
+    "options": ["Her bookstore flourished", "Because", "A good location", "She picks"],
+    "reference": "SSC GD 31/01/2023 (Shift-II)",
+    "answer": "She picks",
+    "explanation": "There is an error in option (d) and 'picked' will be used instead of 'picks' because from the use of 'flourished' (V2) in the sentence it is clear that the given sentence is in past tense. Therefore, use of 'picked' (V2) would be appropriate. Correct Sentence- Her bookstore flourished because she picked a good location."
+  },
+  {
+    "question": "It will take/5 minutes to/preparing a cup of tea.",
+    "options": ["No error", "Preparing a cup of tea", "It will take", "5 minutes to"],
+    "reference": "SSC GD 27/01/2023 (Shift-I)",
+    "answer": "Preparing a cup of tea",
+    "explanation": "There is an error is option (b) of the given sentence. 'Prepare' will be used instead of 'prepring' because the first form of the verb (V1) is used after the infinitive 'to' Therefore, use of 'prepare' would be appropriate. Correct Sentence- In will take 5 minutes to prepare a cup of tea."
+  },
+  {
+    "question": "My sister / is come for a short holiday / from the US.",
+    "options": ["My sister", "from the US", "a short holiday", "is come for"],
+    "reference": "SSC GD 13/02/2023 (Shift-I)",
+    "answer": "is come for",
+    "explanation": "In the above sentence 'has' will be used in place of 'is' because according to sense of the sentence it is in present perfect tense and in it, 'has/have' is used as a helping verb. Hence option (d) is correct answer."
+  },
+  {
+    "question": "The Dutta company has not being making new school bags since the lockdown commenced.",
+    "options": ["commenced", "has not", "being", "since"],
+    "reference": "SSC CGL (Tier-I) 19/07/2023 (Shift-IV)",
+    "answer": "being",
+    "explanation": "In the above given underlined words are correct except 'being' so been (V3) will be used in place of 'being' because sentence is in present perfect tense then his structure will be Sub + has/have + V3 + Obj. Thus, the correct answer is option (c)"
+  },
+  {
+    "question": "Binay said that / he is coming / from / his village, Jaygarh.",
+    "options": ["from", "his village, Jaygarh", "he is coming", "Binary said that"],
+    "reference": "SSC CGL (Tier-I) 21/07/2023 (Shift-II)",
+    "answer": "he is coming",
+    "explanation": "In the above given sentence, the segment 'he is coming' is grammatically error because this sentence will be indirect form of past continuous tense and when the reporting verb (in indirect narration) is in past tense, verb of the reported speech is in past tense. Hence 'he was coming' will be used in place of 'he is coming'. The correct sentence- 'Binary said that he was coming from his village, Jaygarh.'"
+  },
+  {
+    "question": "The doctor came / after the patient / had / pass away.",
+    "options": ["after the patient", "pass away", "The doctor came", "had"],
+    "reference": "SSC CGL (Tier-I) 25/07/2023 (Shift-IV)",
+    "answer": "pass away",
+    "explanation": "The segment of the above given sentence 'pass away is grammatically error, because Passed away (V3) is used in the place of 'pass away' (V1), Note- The given sentence is in Past Perfect Tense in which 'V3' is used with 'had'. The correct sentence is- 'The docter come after the patient had passed away'."
+  },
+  {
+    "question": "My students / had expect / guidance from my end.",
+    "options": ["had expect", "My students", "guidance from my end", "No error"],
+    "reference": "SSC CGL (Tier-I) 20/07/2023 (Shift-I)",
+    "answer": "had expect",
+    "explanation": "In the above given sentence there is containing an error in option (a) ‘had expect’ because sentence is in ‘past perfect tense’ (S + had + v3 +other) ‘The word ‘had expect’ is replaced by ‘had expected’. Correct Sentece- The my students had expected guidance from my end."
+  },
+  {
+    "question": "I play / cricket in / my childhood / with my sister.",
+    "options": ["Play", "With my sister", "Cricket in", "My childhood"],
+    "reference": "SSC CGL (Tier-I) 24/07/2023 (Shift-III)",
+    "answer": "Play",
+    "explanation": "In the given sentence, 'Played' will be used in the place of 'Play' because the sense of the sentence is Past Indifinite tense and (verb2) will be used. Correct Sentece- I played cricket in my childhood with my sister."
+  },
+  {
+    "question": "When I was in 5 th grade,/I use to / ride on my / red bicycle.",
+    "options": ["When I was in 5th grade,", "ride on my", "I use to", "red bicycle"],
+    "reference": "SSC CHSL (Tier-I) 17/08/2023 (Shift-II)",
+    "answer": "I use to",
+    "explanation": "Part (c) of the sentence 'I use to' is erroneous. It has to be replaced with modal verb 'I used to' . used to refers to talking about something that happened in the past or existed in the past. used to + infinitive is used to talk about past situation that in no longer true. Correct Sentence When I was in 5th grade I used to ride on my red bicycle."
+  },
+  {
+    "question": "Nobody from the gathering of odd people could guess the accident occurring blast.",
+    "options": ["Nobody from the gathering", "the accident occurring blast", "No error", "of odd people could guess"],
+    "reference": "SSC CHSL (Tier-I) 08/08/2023 (Shift-II)",
+    "answer": "the accident occurring blast",
+    "explanation": "Parts of the above sentence in option (b) 'the accident occuring blast' is grammatically error because 'Occurred' (past participle) is used instead of 'occurring'. The correct segment – 'the accident occurred blast.' Thus, the correct answer is option (b)."
+  },
+  {
+    "question": "Workers and companies in all sectors can contribute their skills to meet society new needs.",
+    "options": ["sectors can contribe their skills", "No error", "to meet society new needs.", "Workers and companies in all"],
+    "reference": "SSC CHSL (Tier-I) 21/03/2023 (Shift-II)",
+    "answer": "to meet society new needs.",
+    "explanation": "In the above sentence, 'meeting' will be used in place of 'meet'. because 'gerund' (v1 + ing) is used after contribute Correct Sentence Workers and companies in all sectors can contribute their skills to meeting society new needs."
+  },
+  {
+    "question": "We / has seen / that movie / before.",
+    "options": ["before", "We", "that movie", "has seen"],
+    "reference": "SSC CGL Mains 26/10/2023 (Shift-I)",
+    "answer": "has seen",
+    "explanation": "In the above sentence 'have seen' will be used in place of 'has seen' because the subject (we) of the sentence is plural noun. Hence plural verb 'have' will be used. Correct Sentence - We have seen that movie before."
+  },
+  {
+    "question": "Shyam, so good with weapons, fail to find the words / to tell him everything he’d dome / so far, all the compromises he’d made, had been for love.",
+    "options": ["to tell him that everything he’d done", "Shyam, so good with weapons, fail to find the words", "so far, all the compromises he’d made, had been for love.", "No error"],
+    "reference": "SSC CHSL (Tier-I) 20/03/2023 (Shift-I)",
+    "answer": "Shyam, so good with weapons, fail to find the words",
+    "explanation": "In the above sentence, \"Failed\" will be used in place of \"fail\" because given sentence is in 'Past Indefinite' tense. Hence V2 will be used. Correct Sentence: Shyam, so good with weapons failed to find the words to tell him that everything he'd done so far, all the compromises held made, had been for love."
+  },
+  {
+    "question": "That will truly / been a milestone to / celebrate.",
+    "options": ["No error", "celebrate.", "been a milestone to", "That will truly"],
+    "reference": "SSC CHSL (Tier-I) 20/03/2023 (Shift-I)",
+    "answer": "been a milestone to",
+    "explanation": "In the above sentence, \"be\" will be used in place of 'been' because will be/shall be is used in Simple Future Tense. Correct Sentence: This will truly be a milestone to celebrate."
+  },
+  {
+    "question": "We watched the workmen to repair the tiles of the kitchen.",
+    "options": ["of the kitchen", "We watched the workmen", "No error", "to repair the tiles"],
+    "reference": "SSC CPO-SI – 09/12/2019 (Shift-I)",
+    "answer": "to repair the tiles",
+    "explanation": "In the above sentence ‘Repairing’ will be used in place of ‘repair’ because gerund (verb1 + ing) is used after 'watch'. (verb) Watch somebody doing something+ + + Correct sentence :- We watched the workmen repairing the tiles of the kitchen."
+  },
+  {
+    "question": "Sh! Someone listens to our conversation.",
+    "options": ["No error", "listens to", "Sh! Someone", "our conversation"],
+    "reference": "SSC CPO-SI – 23/11/2020 (Shift-I)",
+    "answer": "listens to",
+    "explanation": "In the above sentence, ‘is listening to’ would be appropriate instead of ‘listens to’. Because the sentence is giving continuous sense. Hence the structure of present continuous tense will be used. 1subject is / am / are verb ing object other words+ + + + + Correct sentence :- Sh! someone is listening to our conversation"
+  },
+  {
+    "question": "My cousin, Jawahar,/visited me at home/and asked me/what I am reading.",
+    "options": ["what I am reading", "visited me at home", "and asked me", "My cousin, Jawahar"],
+    "reference": "SSC Stenographer (Grade C & D) 12.11.2021 Shift-I",
+    "answer": "what I am reading",
+    "explanation": "In the above sentence 'What I was reading' will be used in place of 'What I am reading' because if 'first clause is in past, then second clause will also be in past tense. Correct Sentence- My cousin, Jawahar, visited me at home and asked me what I was reading."
+  },
+  {
+    "question": "She has given/me a book/last week/which I returned.",
+    "options": ["last week", "She has given", "me a book", "which I returned"],
+    "reference": "SSC Stenographer (Grade C & D) 12.11.2021 Shift-I",
+    "answer": "She has given",
+    "explanation": "In the above sentence 'She had given' will be used in place of 'She has given' because last week makes it clear that the sentence in past tense. So the helping verb of past perfect tense (had) will be used. Correct Sentence- She had given me a book last week which I returned."
+  },
+  {
+    "question": "'Occupation' means the work or job people do not to earning money.",
+    "options": ["'Occupation' means", "the work or job", "to earning money", "people do"],
+    "reference": "SSC Stenographer (Grade C & D) 12.11.2021 Shift-II",
+    "answer": "to earning money",
+    "explanation": "In the above sentence 'to earn' will be used in place of 'to earning' because 'VerbI' is used after infinitive 'to'. Correct sentence– 'Occupation' means the work or job people do not to earn money."
+  },
+  {
+    "question": "Suman told me that she didn't know how to operates her net banking account.",
+    "options": ["operates", "how to", "told me", "she didn't know"],
+    "reference": "SSC Stenographer (Grade C & D) 15.11.2021 Shift-II",
+    "answer": "operates",
+    "explanation": "In the above sentence 'operate' will be used in place of 'operates' because 'to + VI' is used (to + VI without s/es) Correct sentence:- Suman told me that she didn't know how to operate her net banking account."
+  },
+  {
+    "question": "I remember to meet her at a conference in Delhi last year.",
+    "options": ["to meet her", "I remember", "at a conference", "in Delhi last year"],
+    "reference": "SSC Stenographer (Grade C & D) 15.11.2021 Shift-I",
+    "answer": "to meet her",
+    "explanation": "Use of both indefinite and gerund is possible with Remember. But if we talk about the past in the sentence. We use the gerund and in the future, we will use the infinitive. In the given sentence, Last year means past has been talked about. So 'meet her' will be replaced by \"meeting her\". Hence option (a) will be correct."
+  },
+  {
+    "question": "She had resign/from the/post before/he apologised.",
+    "options": ["he apologised", "post before", "she had resign", "from the"],
+    "reference": "SSC CHSL 24.05.2022 Shift-III",
+    "answer": "she had resign",
+    "explanation": "In the above sentence 'had resigned' will be used in place of 'had resign' because verb3 is used after 'had' Note:– If the two clauses connected with After/Before, the work that was completed earlier is used in past perfect and the work that was completed later is used in past indefinite tense. Correct Sentence- She had resigned from the post before he apologised."
+  },
+  {
+    "question": "My boss keeps telling me/all the time/ that money/doesn't grows on trees.",
+    "options": ["My boss keeps telling me", "all the time", "doesn't grows on trees", "that money"],
+    "reference": "SSC CHSL 27.05.2022 Shift-I",
+    "answer": "doesn't grows on trees",
+    "explanation": "In the above sentence 'doesn't grow on tree' will be used in place of doesn't grows on tree because the verb of present Indefinite negative sentence, is used without s/es. Whereas in affirmative sentence VI + s/es is used. Correct Sentence - My boss keeps telling me all the time that money doesn't grow on tree."
+  },
+  {
+    "question": "I goes/to the school/every day/irrespective of the weather.",
+    "options": ["to the school", "every day", "irrespective of the weather", "I goes"],
+    "reference": "SSC CHSL 27.05.2022 Shift-I",
+    "answer": "I goes",
+    "explanation": "In the above sentence 'go' will be used in place of 'goes' because plural verb is always used with 'I'. Note– The natural form of all verb (form) is plural and it is made singular by adding s/es. Correct Sentence- I go to the school every day irrespective of the weather."
+  },
+  {
+    "question": "Elina is/travelling/since/yesterday.",
+    "options": ["yesterday", "Elina is", "since", "travelling"],
+    "reference": "SSC CHSL 27.05.2022 Shift-III",
+    "answer": "Elina is",
+    "explanation": "In the above sentence 'has been' will be used in place of 'is' because it is clear from the use of since + time (yesterday) that the sentence is in present perfect continuous tense. Therefore, 'has been' will be used as a helping verb for the singular subject (Elina) in the sentence. Correct sentence - Elian has been travelling since yesterday."
+  },
+  {
+    "question": "There is many ways/to make/a stranger feel/welcome in the community.",
+    "options": ["welcome in the community", "a stranger feel", "to make", "there is many ways"],
+    "reference": "SSC CHSL 26.05.2022 Shift-II",
+    "answer": "there is many ways",
+    "explanation": "In the above sentence 'are' will be used in the place of 'is' because the subject 'many ways' is plural. Hence plural verb (are) will be used. Note– When 'there' is used at the beginning of the sentence, the verb is used according to the subject used after the verb. Correct sentence– There are many ways to make a stranger feel welcome in the community."
+  },
+  {
+    "question": "The goons fled after kill a boy in the street.",
+    "options": ["No error", "boy in the street", "after kill a", "The goons fled"],
+    "reference": "SSC MTS-18/07/2022 Shift-I",
+    "answer": "after kill a",
+    "explanation": "In the above sentence 'after killing a' will be used in place of 'after kill a' because (V + ing) form of verb will be used after preposition (after). Correct Sentence – The goons fled after killing a boy in the street."
+  },
+  {
+    "question": "My guide / was blind / but he bring / me home safely.",
+    "options": ["but he bring", "My guide", "was blind", "me home safely"],
+    "reference": "SSC CGL (Tier-I) 21/04/2022 Shift-III",
+    "answer": "but he bring",
+    "explanation": "In the above sentence 'but he brought' will be used in place of 'but he bring' because the first clause of the sentence is in past. Then sub-ordinate Clause (if clause) will also be in the 'past'. So 'verb2' will be used. Correct sentence- My guide was blind but he brought me home safely"
+  },
+  {
+    "question": "Will you / care for / a cup of / hot coffee?",
+    "options": ["a cup of", "care for", "Will you", "hot coffee"],
+    "reference": "SSC CGL (Tier-I) 20/04/2022 Shift-III",
+    "answer": "Will you",
+    "explanation": "In the above sentence 'would you' will be used in place of 'will you' because, 'Would' is used for formal \"Invitation/ Proposal\". Correct sentence– Would you care for a cup of hot coffee?"
+  },
+  {
+    "question": "He allowed / his son to drive / but he warn him/ of the danger.",
+    "options": ["his son to drive", "of the danger", "but he warn him", "He allowed"],
+    "reference": "SSC CGL (Tier-I) 11/04/2022 Shift-II",
+    "answer": "but he warn him",
+    "explanation": "In the above sentence 'but he warned him' will be used in place of 'but he warn him' because it is in Past Tense, then the second clause will also be in Past tense in which 'verb2' is used. Correct Sentence– He allowed his son to drive but he warned him of the danger."
+  },
+  {
+    "question": "Did you / recall to meet / her at the party / last night?",
+    "options": ["last night", "Do you", "recall to meet", "her at the party"],
+    "reference": "SSC CGL (Tier-I) 11/04/2022 Shift-II",
+    "answer": "recall to meet",
+    "explanation": "In the above sentence 'recall meeting' will be used in place of 'recall to meet' because recall is followed by gerund (V + ing) not infinitive (to +V1) correct sentence – Did you recall meeting her at the party last night"
+  },
+  {
+    "question": "you should / have respond / to my query / sooner.",
+    "options": ["to my query", "sooner", "have respond", "you should"],
+    "reference": "SSC CGL (Tier-I) 13/04/2022 Shift-II",
+    "answer": "have respond",
+    "explanation": "In the above sentence 'have responded' will be used in the place of 'have respond' because past participle (V3) is used after 'should have'. Correct sentence - you should have responded to my query sooner."
+  },
+  {
+    "question": "If the economy fails / this year it reflect badly / on the government.",
+    "options": ["on the government", "this year it reflect badly", "No error", "If the economy fails"],
+    "reference": "SSC CGL (Tier-I) 11/04/2022 Shift-I",
+    "answer": "this year it reflect badly",
+    "explanation": "In the above sentence 'this year it reflects badly' will be used in place of 'this year it reflect badly' because subject 'it' is singular. Hence singular verb reflects) will be used. Note :– Verb is made singular by adding s/es while Noun is made plural by adding s/es/ Correct sentence– If the economy fails this year it reflects badly on the government."
+  },
+  {
+    "question": "Sometimes I act / like a fool, and she has / to step into save me.",
+    "options": ["Sometimes I act", "like a fool and she has", "No error", "to step into save me"],
+    "reference": "SSC MTS-05/07/2022 Shift-III",
+    "answer": "to step into save me",
+    "explanation": "In the above sentence 'to step to save me' will be used in place of 'to step into save me' because Noun form is needed in the sentence, so infinitive (to + VI) will be used here as a noun. Correct Sentence– Sometime I act like a fool, and she has to step to save me."
+  },
+  {
+    "question": "Frank has being making / the rounds, advancing a theory ' that I believe is not without merit.",
+    "options": ["the rounds, advancing a theory", "No error", "Frank has being making", "that I believe is not without merit"],
+    "reference": "SSC MTS-07/07/2022 Shift-II",
+    "answer": "Frank has being making",
+    "explanation": "In the above sentence frank has been making' will be used in place of 'Frank has being making' because the sentence is in present perfect continuous tense. Correct Sentence – Frank has been making the rounds, advancing a theory that I believe is not without merit."
+  },
+  {
+    "question": "At Seven began the education that was to making the young boy a citizen and a soldier.",
+    "options": ["No error", "At seven began he education", "boy a citizen and a soldier", "that was to making the young"],
+    "reference": "SSC MTS-07/07/2022 Shift-II",
+    "answer": "that was to making the young",
+    "explanation": "In the above sentence 'that was to make the young' will be used in place of 'that was to making the young' because 'to + VI' is use as an infinitive which works as a noun. Correct sentence – At seven began the education that was to make the young boy a citizen and a soldier."
+  },
+  {
+    "question": "She didn’t liked / any disturbance / during her studies.",
+    "options": ["She didn’t liked", "during her studies", "any disturbance", "No error"],
+    "reference": "SSC Constable GD-23/11/2021 Shift-III",
+    "answer": "She didn’t liked",
+    "explanation": "In the above sentence 'didn't like' will be used in the place of 'didn't liked' because first form of verb (VI) is used after helping verb do/did/does. Correct Sentence- She didn't like any disturbance during her studies."
+  },
+  {
+    "question": "Please ensure / that you covering your face / with a mask / when you go out.",
+    "options": ["that you covering your face", "with a mask", "Please ensure", "when you go out"],
+    "reference": "SSC Constable GD-22/11/2021 Shift-II",
+    "answer": "that you covering your face",
+    "explanation": "In the above sentence 'should cover' will be used in place of 'covering' because sentence is in imperative and according to the sense of sentence modal verb 'should' after that 'verb1' is used. Correct sentence– Please ensure that you should cover your face with a mask when you go out."
+  },
+  {
+    "question": "I entered my room / and switch on the lights / but it was / still dark.",
+    "options": ["and switch on the lights", "I entered my room", "but it was", "still dark"],
+    "reference": "SSC Constable GD-22/11/2021 Shift-II",
+    "answer": "and switch on the lights",
+    "explanation": "In the above sentence 'Switched on' will be used in place of 'Switch on' because it is clear from the use of 'entered was' in the sentence that the sentence in the past tesne. Hence Simple past verb (2nd form) will be used. Correct Sentence– I entered my room and switched on the lights but it was still dark."
+  },
+  {
+    "question": "Who do you think / who stole / the painting / from the museum?",
+    "options": ["who stole", "the painting", "from the museum", "Who do you think"],
+    "reference": "SSC Constable GD-18/11/2021 Shift-I",
+    "answer": "who stole",
+    "explanation": "In the above sentence 'Who has stolen' will be used in place of 'who stole' because it is clear from the use of 'do' that if first clause is in present tense then second clause also be in present tense. Correct Sentence– Who do you think who has stolen the painting from the museum."
+  },
+  {
+    "question": "Mona is from Paris. / She has live / there all / her life.",
+    "options": ["there all", "her life", "Mona is from Paris", "she has live"],
+    "reference": "SSC Constable GD-14/12/2021 Shift-III",
+    "answer": "she has live",
+    "explanation": "In the above sentence 'She has lived' will be used in place of 'She has live' because verb3 will be used after 'has'. Correct sentence– Mona is from Paris she has lived there all her life"
+  },
+  {
+    "question": "Fortunately / the fire did not / caused much damage / to the building.",
+    "options": ["caused much damage", "Fortunately", "to the building", "the fire did not"],
+    "reference": "SSC Constable GD-14/12/2021 Shift-II",
+    "answer": "caused much damage",
+    "explanation": "In the above sentence 'Cause' will be used in place of Caused' because base form of verb (VI) is used after helping verb do/does/did. Correct Sentence- Fortunately the fire did not cause much damage to the building."
+  },
+  {
+    "question": "I have completed the work two hours ago.",
+    "options": ["has completed", "completed", "will have completed", "No substitution required"],
+    "reference": "SSC Constable GD-10/12/2021 Shift-III",
+    "answer": "completed",
+    "explanation": "In the above sentence 'Completed' will be used in the place of 'have completed' because The use of \"two hours ago\" makes it clear that the sense of the sentence is in past tense. So the verb of past Indefinite tense 'Verb2' will be used. Correct sentence– I completed the work two hours ago."
+  },
+  {
+    "question": "I am thinking / your idea will be / really appreciated / by everyone.",
+    "options": ["I am thinking", "by everyone", "your idea will be", "really appreciated"],
+    "reference": "SSC Constable GD-07/12/2021 Shift-II",
+    "answer": "I am thinking",
+    "explanation": "In the above sentence 'I think' will be used in place of 'I am thinking' because as a verb 'think' is not used in continuous tense. Note :– Some verb like think, feel, believe not used in progressive sense or continuous tense. Correct sentence– I think your idea will be really appreciated by everyone."
+  },
+  {
+    "question": "The news reporter highlighting the mysterious death of the film actor repeatedly.",
+    "options": ["highlighting", "repeatedly", "the mysterious death", "of the film actor"],
+    "reference": "SSC Constable GD-06/12/2021 Shift-III",
+    "answer": "highlighting",
+    "explanation": "In the above sentence 'highlighted' will be used in place of 'highlighting' because News reporter is telling the incident of 'Past', So V2 (Highlighted) will be used. Correct sentence– The news reporter highlighted the mysterious death of the film actor repeatedly."
+  },
+  {
+    "question": "How many / languages do / most children / in India known?",
+    "options": ["in India known", "most children", "languages do", "How many"],
+    "reference": "SSC Constable GD-03/12/2021 Shift-II",
+    "answer": "in India known",
+    "explanation": "In the above sentence 'Know' will be used in place of 'known' because the use of 'do' makes it clear that the sentence is in Present Indefinite. Hence 'Verb Ist' (VI) will be used. Correct Sentence How many languages do most children in India Know?"
+  },
+  {
+    "question": "God is great/and we could/be grateful to him for all the gifts/he has bestowed on us.",
+    "options": ["God is great", "and we could", "he hs bestowed on us", "be grateful to him for all the gifts"],
+    "reference": "SSC Constable GD-01/12/2021 Shift-I",
+    "answer": "and we could",
+    "explanation": "In the above sentence 'and we must' will be used in place of 'and we could' because can/could (modal) is used to express a possibility, while 'must' (modal) is used to express an obligation to do something. Correct sentence– God is great and we must be grateful to him for all the gifts he has bestowed on us."
+  },
+  {
+    "question": "Torrential rains and winds of upto 170 km per hour swept away roads, homes and bridges and knocking down power and communication lines.",
+    "options": ["homes and bridges", "knocking down", "winds of upto", "swept away roads"],
+    "reference": "SSC CGL (Tier-I) – 04/06/2019 (Shift-III)",
+    "answer": "knocking down",
+    "explanation": "In the above sentence 'Knocked down' will be used in place of 'knocking down' because simple past tense is used in the sentence according to the sense of the sentence. Correct Sentence- Torrential rains and wind of upto 170 km per hour swept away roads, homes and bridges and knocked down power and communication lines."
+  },
+  {
+    "question": "Ranbir could not went/ to the award ceremony/ as he was busy/shooting/for a film/in Maldives.",
+    "options": ["Ranbir could not went", "for a film", "to the award ceremony", "as he was busy"],
+    "reference": "SSC CGL (Tier-I) –20/08/2021 (Shift-I)",
+    "answer": "Ranbir could not went",
+    "explanation": "In the above sentence 'Ranbir Could not go' will be used in place of 'Ranbir could not went' because original form (Verb1) comes after model (could). Correct Sentence- Ranbir could not go to the award ceremony as he was busy shooting for a film in Maldives."
+  },
+  {
+    "question": "The tired and vexed travellers waiting at the airport for a long time.",
+    "options": ["vexed travellers", "The tired and", "waiting at the airport", "for a long time"],
+    "reference": "SSC CGL (Tier-II) 16/11/2020 (3 pm - 5 pm)",
+    "answer": "waiting at the airport",
+    "explanation": "In the above sentence 'have been waiting' will be used in place of 'waiting' because the use of 'for a long time' makes. It clear that the sentence is in present perfect continuous tense. Hence verb (has/have + verb + ing) will be used. Correct sentence- The tired and vexed travellers have been waiting at the airport for a long time."
+  },
+  {
+    "question": "Laws and rules are made to safeguarding our rights and protect us.",
+    "options": ["are made to", "safeguarding our rights", "Laws and rules", "and protect us"],
+    "reference": "SSC CGL (Tier-II) 16/11/2020 (3 pm - 5 pm)",
+    "answer": "safeguarding our rights",
+    "explanation": "In the above sentence 'to safeguard' will be used in place of 'to safeguarding' because as a infinitive (to+V1) will be used as a noun. Correct sentence- Laws and rules are made to safeguard our rights and protect us."
+  },
+  {
+    "question": "She forgot lock the door when she went out in a hurry.",
+    "options": ["in a hurry", "She forgot lock", "the door when", "she went out"],
+    "reference": "SSC CGL (Tier-I) – 07/06/2019 (Shift-I)",
+    "answer": "She forgot lock",
+    "explanation": "The use of 'forget to' would be appropriate Because when two verbs (forgot, Lock) are used side by side in a sentence, then the noun from the later verb (infinitive) (to + VI) to will be used. Correct sentence - She forgot to lock the door when she went out in a hurry."
+  },
+  {
+    "question": "I didn't knew you had gone to Goa for a vacation.",
+    "options": ["you had gone", "to Goa", "I didn't knew", "for a vacation"],
+    "reference": "SSC CGL (Tier-II) 16/11/2020 (3 pm - 5 pm)",
+    "answer": "I didn't knew",
+    "explanation": "In the above sentence 'know' will be used in place of 'knew' (V2) because (V1) will be used after helping verb do/did/does. Correct sentence- I didn't know you had gone to Goa for a vacation."
+  },
+  {
+    "question": "The files you were look for are placed on the table.",
+    "options": ["are placed", "you were look for", "The files", "on the table"],
+    "reference": "SSC CPO-SI (Tier-II) 27/09/2019 (3 pm - 5 pm)",
+    "answer": "you were look for",
+    "explanation": "In the above sentence 'Looking for' will be used in place of 'Look for' because sentence is in past continuous tense. was/were + verb1+ing Correct sentence- The files you were looking for are placed on the table."
+  },
+  {
+    "question": "You had better not to try and feed the animals in the zoo, it is forbidden.",
+    "options": ["and feed the animals", "it is forbidden", "in the zoo", "You had better not to try"],
+    "reference": "SSC CHSL (Tier-I) 14/10/2020 (Shift-III)",
+    "answer": "You had better not to try",
+    "explanation": "In the above sentence 'try' will be used in place of 'to try' because infinitive 'to' is not used after 'had better'. Note - Needn't, dare not, would rather, rather than, had better etc. bare infinitive (verb without to). Correct sentence : You had better not try and feed the animals in the zoo, it is forbidden."
+  },
+  {
+    "question": "We noticed that most of the shoppers in the mall looking for packets of ready to cook food.",
+    "options": ["We noticed that", "most of the shoppers", "packets of ready to cook food", "in the mall looking for"],
+    "reference": "SSC CHSL (Tier-I) 13/10/2020 (Shift-III)",
+    "answer": "in the mall looking for",
+    "explanation": "In the above sentence 'in the mall were Looking for' will be used in place of 'in the mall looking for' because sub-ordinate clause is in past continuous tense. Which subject 'shoppers' is plural. Hence plural helping verb 'were' will be used. Correct Sentence :- We noticed that most of the shoppers in the mall were looking for packets of ready to cook food."
+  },
+  {
+    "question": "The sun rises at 6:35 yesterday morning.",
+    "options": ["No error", "The sun", "yesterday morning", "rises at 6:35"],
+    "reference": "SSC CPO-SI – 23/11/2020 (Shift-I)",
+    "answer": "rises at 6:35",
+    "explanation": "In the above sentence \"rose at 6:35\" will be used in place of \"rises at 6:35\" because it is clear from the use of yesterday, the sentence is in past Indefinite tense. Hence second form (V2) of verb will be used. Correct sentence :- The sun rose at 6:35 a.m. yesterday morning."
+  },
+  {
+    "question": "This will explains the decision taken (1)/to impose a blockade on the country in (2)/ the midst of a crisis. (3)/ No error. (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC CGL (Phase-II) 17/02/2018",
+    "answer": "1",
+    "explanation": "In the above sentence 'explain' will be used in place of 'Explains'. because \"Verb1\" is used after will in future Indefinite tense. Correct Sentence- 'This will explain the decision taken to impose ......"
+  },
+  {
+    "question": "Many firms fail because when they begin (1)/exporting, they have not research the (2)/ target Markets or have not planned enough.(3)/No error(4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC CGL (Phase-II) 17/02/2018",
+    "answer": "2",
+    "explanation": "In the above sentence 'have' will be used as an auxiliary verb, So the verb coming after it will be in third form of verb (V3). Hence \"Researched\" will be used in place of \"research.\" Correct Sentence - Many firms fail because when they begin exporting, they have not researched the...."
+  },
+  {
+    "question": "Nobody is allowed to entered the colony during the lockdown.",
+    "options": ["Is allowed", "Nobody", "During the lockdown", "To entered"],
+    "reference": "SSC Sel. Post Phase-VIII (H.L.) 09.11.2020 (Shift-I)",
+    "answer": "To entered",
+    "explanation": "In the above sentence 'to enter' will be used in place of 'to entered' because verb (V1) is used after infinitive 'to'. Correct Sentence:- Nobody is allowed to enter the colony during the lockdown."
+  },
+  {
+    "question": "As with people, some monkeys are lazy, (1)/like those who sleep all day in the zoo, (2)/and some were industrious. (3)/ No error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC CGL (Phase-II) 17/02/2018",
+    "answer": "3",
+    "explanation": "The main clause of the above sentence is in present tense, therefore, the sub-ordinate clause will also be in present tense. Hence 'are' will be used in place of 'were'. Correct sentence- As with people, some monkeys are lazy, like those who sleep all day in the zoo, and some are industrious."
+  },
+  {
+    "question": "No matter what Ashoka did in his earlier (1)/ years, in the ending he proved to be uncommonly (2)/ virtuous and wise. (3)/ No error (4)",
+    "options": ["1", "2", "4", "4"],
+    "reference": "SSC CGL (Phase-II) 17/02/2018",
+    "answer": "2",
+    "explanation": "In the given sentence 'end' will be used in place of 'Ending', because according to the structure of the sentence, article 'the' is not used before the gerund. (V+ing) (in the End). Correct sentence- No matter......years, in the end he proued to be uncommonly…"
+  },
+  {
+    "question": "She picked up the books lie on the table and put them on the shelf.",
+    "options": ["on the shelf", "she picked up", "put them", "lie on the table"],
+    "reference": "SSC CPO-SI – 25/11/2020 (Shift-I)",
+    "answer": "lie on the table",
+    "explanation": "In the above sentence 'lay on' will be used in place of 'Lie on' because the sentence is in Past Indefinite. and verb2 \"Lay\" is used in this tense. Ist IInd IIIrd lie lay lain v form v form v form ⇒ ⇒ ↓ ↓ ↓ Correct sentence - She picked up the books lay on the table and put them on the shelf."
+  },
+  {
+    "question": "One of the proposals received by us seem very interesting.",
+    "options": ["the proposals", "seem very interesting", "received by us", "one of"],
+    "reference": "SSC CPO-SI – 24/11/2020 (Shift-I)",
+    "answer": "seem very interesting",
+    "explanation": "In the above sentence 'seemed' will be used in place of 'seem' as a past participle because the sentence in in past tense. Correct sentence - One of the proposals received by us seemed very interesting."
+  },
+  {
+    "question": "I was sorry to be hearing of his misfortune.",
+    "options": ["I was", "sorry to", "of his misfortune", "be hearing"],
+    "reference": "SSC CPO-SI – 24/11/2020 (Shift-I)",
+    "answer": "be hearing",
+    "explanation": "In the above sentence 'hear' will be used in place of 'be hearing' because according to sense of the sentence, Noun is needed here and (to + vI) infinitive works as noun. Note— Usually 'Sorry' is followed by infinitive (to+vI) Correct sentence : I was sorry to hear of his misfortune."
+  },
+  {
+    "question": "I am hearing a strange noise now.",
+    "options": ["a strange", "noise now", "No error", "I am hearing"],
+    "reference": "SSC CPO-SI – 23/11/2020 (Shift-I)",
+    "answer": "I am hearing",
+    "explanation": "In the above sentence 'hear' will be used in place of 'am hearing' because it is clear from the used of 'now' that the sentence is in Present Indefinite tense. Hence the verb 'hear' (verb1) will be used, because the subject of the sentence is I. Correct sentence- I hear a strange noise now."
+  },
+  {
+    "question": "Sam took a little time to thought before he replied.",
+    "options": ["before he replied", "a little time", "Sam took", "to thought"],
+    "reference": "SSC CPO-SI – 24/11/2020 (Shift-II)",
+    "answer": "to thought",
+    "explanation": "In the above sentence 'to think' will be used in place of 'to thought' because to + V1 (infinitive) is used. Note :– 1st form of verb is used to make infinitive which works as a 'noun'. Correct sentence- Sam took a little time to think before he replied."
+  },
+  {
+    "question": "The two trains gave the illusion of been stationary.",
+    "options": ["The two", "trains gave", "of been stationary", "the illusion"],
+    "reference": "SSC CPO-SI – 24/11/2020 (Shift-II)",
+    "answer": "of been stationary",
+    "explanation": "In the above sentence 'of being stationary' will be used in place of 'of been stationary' because Gerund (V1 + ing) is used after the preposition. Correct Sentence- The two trains gave the illusion of being stationary."
+  },
+  {
+    "question": "Due to the cyclone Idai vast areas of land have been flooded, roads destroyed and communications disrupting in Zimbabwe and Mosambique.",
+    "options": ["vast areas of land have been flooded", "roads destroyed", "Due to the cyclone Idai", "and communications disrupting"],
+    "reference": "SSC CGL (Tier-I) – 04/06/2019 (Shift-II)",
+    "answer": "and communications disrupting",
+    "explanation": "In the above sentence 'Disrupted' will be used in place of 'Disrupting' because when two clause connected with 'and' then both clause will be in same tense. Since 'roads destroyed' is in past form so communication disrupting also in past form. Correct Sentence- Due to the cyclone Idai vast areas of land have been flooded, roads destroyed and communications disrupted in Zimbabwe and Mosambique."
+  },
+  {
+    "question": "You may left the class when you have completed the test.",
+    "options": ["You may left", "completed the best", "the class", "when you have"],
+    "reference": "SSC CGL (Tier-I) – 13/06/2019 (Shift-II)",
+    "answer": "You may left",
+    "explanation": "In the above sentence 'leave' will be used in place of 'left' because after modal verb (may) first from of the verb is used. Correct sentence- You may leave the class when you have completed the test."
+  },
+  {
+    "question": "'Plogging' is an international trend, in which someone picking up trash while jogging or brisk walking.",
+    "options": ["while jogging or brisk walking", "picking up trash", "'Plogging' is an international trend", "in which someone"],
+    "reference": "SSC CPO-SI – 09/12/2019 (Shift-I)",
+    "answer": "picking up trash",
+    "explanation": "In the above sentence 'Picks up trash' will be used in place of 'picking up trash' because according to the meaning of the sentence regular activity is being understood, thereafter the sentence is in simple present will be used. Correct sentence :- 'Plogging' is an international trend, in which someone picks up trash while jogging or brisk walking."
+  },
+  {
+    "question": "Need you to buy so many books?",
+    "options": ["to buy", "Need you", "so many books", "No error"],
+    "reference": "SSC CPO-SI – 11/12/2019 (Shift-II)",
+    "answer": "to buy",
+    "explanation": "In the given sentence 'buy' will be used in place of 'to buy' because in the given sentence semi-modal 'Need' is used as a helping verb at the beginning of sentence. The sentence is yes/No answer type question Its structure be as follows. Helping verb subject verb other words+ + + Since 'to + buy' is used as a noun in the form of infinitive whereas here verb is required. Correct sentence - Need you buy so many books?"
+  },
+  {
+    "question": "Anita enjoyed to swim in the sea.",
+    "options": ["to swim", "Anita enjoyed", "in the sea", "No error"],
+    "reference": "SSC CPO-SI – 11/12/2019 (Shift-I)",
+    "answer": "to swim",
+    "explanation": "In the above sentence 'Swimming' will be used in place of ' to swim' because gerund (verb1 + ing) is used after verb enjoy. Note- Admit, avoid, delay, deny, detest, enjoy, excuse, finish, forgive, mind, prevent, keep, resent, it is no use, it is no good, can't help, can't stand etc. always followed by v+ing form. Correct sentence :- Anita enjoyed swimming in the sea."
+  },
+  {
+    "question": "He wouldn't let anyone to drive his new car.",
+    "options": ["No error", "his new car", "anyone to drive", "He wouldn't let"],
+    "reference": "SSC CPO-SI – 12/12/2019 (Shift-I)",
+    "answer": "anyone to drive",
+    "explanation": "In the above sentence 'anyone drive' will be used in place of 'anyone to drive' because after act, bid, watch, behold, see, make, feel bare infinitive (VI) is used, in active voice but if it is in passive, then –infinitive (to + VI) is used and the sentence is in active voice. Correct sentence :- He wouldn't let anyone drive his new car."
+  },
+  {
+    "question": "Are you having your own transport to go home from work?",
+    "options": ["from work", "your own transport", "Are you having", "to go home"],
+    "reference": "SSC CPO-SI – 13/12/2019 (Shift-II)",
+    "answer": "Are you having",
+    "explanation": "In the above sentence 'do you have' will be used in place of 'Are you having' because in interrogative sentence, when the subject gives sense of possession then According to grammar rule 'Do + Plural Subject + have + object + etc' is used. Correct sentence :- Do you have your own transport to go home from work?"
+  },
+  {
+    "question": "My grandmother has been lives in Shimla since her childhood days.",
+    "options": ["has been lives", "her childhood days", "My grandmother", "in Shimla since"],
+    "reference": "SSC CHSL (Tier-I) –10/07/2019 (Shift-III)",
+    "answer": "has been lives",
+    "explanation": "In the above sentence 'Living' will be used in place of 'Lives' because it is clear from the use of helping verb 'has been' and since/for that the sentence is in Present Perfect continuous. The structure of this tense is as follows. Subject + has/have + been + verb + ing + since/for + time Correct sentence- My grandmother has been living in Shimla since her childhood."
+  },
+  {
+    "question": "When we went to Ramgarh we see the snow-capped mountains in the distance.",
+    "options": ["in the distance", "to Ramgarh we see", "the snow-capped mountains", "when we went"],
+    "reference": "SSC CHSL (Tier-I) –09/07/2019 (Shift-II)",
+    "answer": "to Ramgarh we see",
+    "explanation": "In the above sentence 'Saw' will be used in place of 'See' because it is clear from the use of went (V2) that the sentence is in Past Indefinite. So the second verb also be in 2nd form. Correct sentence- When we went to Ramgarh we saw the snow-capped mountains in the distance."
+  },
+  {
+    "question": "It was windy autumn day and leaves were fallen rapidly from the trees.",
+    "options": ["It was a", "rapidly from trees", "leaves were fallen", "windy autumn day"],
+    "reference": "SSC CHSL (Tier-I) –05/07/2019 (Shift-III)",
+    "answer": "leaves were fallen",
+    "explanation": "In the above sentence 'Leaves were falling' will be used in place of 'Leaves were fallen' since was/were' is the helping verb of Past continuous. After which 'ing' is added to the main verb. Although verb IIIrd form can be used after was/were but the sentence should in Passive form. Correct sentence- It was a windy autumn day and leaves were falling rapidly from the trees."
+  },
+  {
+    "question": "The ambulance have arrived on time, the accident victim was taken to the hospital.",
+    "options": ["the accident victim", "have arrived on time", "The ambulance", "was taken to the hospital"],
+    "reference": "SSC CHSL (Tier-I) –04/07/2019 (Shift-III)",
+    "answer": "have arrived on time",
+    "explanation": "In the above sentence 'had arrived on time' will be used in place of 'have arrived on time' because it is clear that the second clause is in past tense. So, the other clause will also be in past tense. and helping verb of past perfect tense 'had' will be used. Correct sentence :- The ambulance had arrived on time, the accident victim was taken to the hospital."
+  },
+  {
+    "question": "The Public Works Department has propose to construct an elevated corridor which will run parallel to the National highway.",
+    "options": ["to the National highway", "The Public Works Department has propose", "which will run parallel", "to construct an elevated corridor"],
+    "reference": "SSC CHSL (Tier-I) –02/07/2019 (Shift-I)",
+    "answer": "The Public Works Department has propose",
+    "explanation": "It is clear from the use of Helping verb 'has' in the above sentence that the sentence is in Present Perfect tense and its structure is as follows IIISubject has / have V form other words+ + + Thereafter in place of 'propose', 'proposed' verb3 will be used in the sentence. Correct Sentence- The Public Works Department has proposed to construct an elevated corridor which will run parallel to the National highway"
+  },
+  {
+    "question": "I declined the lunch offer by Suresh, not because I do not want to go, but because I had no time.",
+    "options": ["by Suresh not because", "but because I had no time", "I do not want to go", "I declined the lunch offer"],
+    "reference": "SSC CHSL (Tier-I) 26/10/2020 (Shift-II)",
+    "answer": "I do not want to go",
+    "explanation": "In the above sentence ' I did not' will be used in place of 'I do not' because It is clear from V2 (Declaimed) that the sentence is in past tense. Hence the next clause is also in Past tense so 'did' will be used in place of 'do'. Correct sentence- I declined the lunch offer by Suresh, not because I did not want to go, but because I had no time."
+  },
+  {
+    "question": "Did you know whether we can exchange the dress if my sister doesn't like it?",
+    "options": ["doesn't like it", "we can exchange the dress", "Did you know whether", "if my sister"],
+    "reference": "SSC CHSL (Tier-I) 17/03/2020 (Shift-I)",
+    "answer": "Did you know whether",
+    "explanation": "In the above sentence 'Do you know whether will be used in place of 'Did you know whether' because according to the sense of the sentence it is in present tense. As it is clear from sub-ordinate clause (doesn't like) Correct Sentence- Do you know whether we can exchange the dress if my sister doesn't like it?"
+  },
+  {
+    "question": "A Delhi bound aircraft has to make an emergency landing at Mumbai airport as a woman passenger suddenly developed a serious breathing problem.",
+    "options": ["suddenly developed", "as a woman passenger", "has to make", "a serious breathing problem"],
+    "reference": "SSC CHSL (Tier-I) 16/10/2020 (Shift-I)",
+    "answer": "has to make",
+    "explanation": "In the above sentence 'had to make' will be used in place of 'has to make' because it is clear from the second clause that the sentence is in past tense. Correct Sentence- A Delhi bound aircraft had to make an emergency landing at Mumbai airport as a woman passenger suddenly developed a serious breathing problem."
+  },
+  {
+    "question": "Samurai jack drawn his sword to exact revenge on his superiors.",
+    "options": ["to exact revenge", "on his superiors", "Samurai jack drawn", "his sword to"],
+    "reference": "SSC CHSL (Tier-I) 26/10/2020 (Shift-I)",
+    "answer": "Samurai jack drawn",
+    "explanation": "In the above sentence V2 (drew) will be used in place of V3 (drawn) because above sentence is Affirmative sentence of past Indefinite tense and second form of verb is used in it. Note- Past Indefinite Negative Interrogative Sentence, helping verb, 'did' and verb first form is used. Correct Sentence Samurai jack drew his sword to exact revenge on his superiors,"
+  },
+  {
+    "question": "Often hailed as one of the greatest industry leaders of india, Ratan Tata take across the reins of the company, leading from the front.",
+    "options": ["leading from the front", "Often hailed as one of", "the greatest industry leaders from india,", "Ratan Tata take across the reins of the company"],
+    "reference": "SSC CHSL (Tier-I) 26/10/2020 (Shift-II)",
+    "answer": "Ratan Tata take across the reins of the company",
+    "explanation": "In the above sentence 'took over' will be used in place of 'take across' because according to the sense of the sentence it is in Past Indefinite tense. Hence second form of verb (took) will be used. Correct Sentence Often hailed as one of the greatest industry leaders of india, Ratan Tata took over the reins of the company, leading from the front."
+  },
+  {
+    "question": "Mani Kaul begun his career as an actor and a director of short films before doing his debut feature film, 'Uski Roti,'",
+    "options": ["debut feature film, 'Uski Roti,'", "begun his career as an actor", "a director of short films", "before doing his"],
+    "reference": "SSC CHSL (Tier-I) 26/10/2020 (Shift-II)",
+    "answer": "begun his career as an actor",
+    "explanation": "In the above sentence second form of verb 'began' will be used in place of third form of verb 'begun' because the sentence is in past Indefinite tense. begin began begun Ist IInd IIIrd → → Correct sentence Mani Kaul began his career as an actor and a director of short films before doing his debut feature film, 'Uski Roti,"
+  },
+  {
+    "question": "People with full time sedentary job who commuting long distances, may have sleep problems due to lack of exercise.",
+    "options": ["may have sleep problems", "people with full time sedentary jobs", "due to lack of exercise", "who commuting long distances"],
+    "reference": "SSC CHSL (Tier-I) 21/10/2020 (Shift-I)",
+    "answer": "who commuting long distances",
+    "explanation": "In the above sentence 'who commute long distance' will be used in place of 'who commuting long distances' because here V1 (commute) is needed in present Indefinite tense. Since relative pronoun 'who' is used for subject people (plural noun) hence plural verb (verb1) without 's/es' is used after 'who'. Correct Sentence : People with full time sedentary jobs who commute long distances may have sleep problem due to lack of exercise."
+  },
+  {
+    "question": "The Indian cricket team was done very well this year and is ranked number one now.",
+    "options": ["was done very well", "this year", "and is ranked number one now", "The Indian cricket team"],
+    "reference": "SSC CHSL (Tier-I) 19/10/2020 (Shift-I)",
+    "answer": "was done very well",
+    "explanation": "In the above sentence 'has' will be used in place of 'was' because the use of Adverb 'now' makes it clear Present time moment. Hence, present perfect tense is used. Note- was + done (V3) is used in passive voice. Correct Sentence : The Indian cricket team has done very well this year and is ranked number one now."
+  },
+  {
+    "question": "The country has to struggled with the problems of child labour.",
+    "options": ["child labour", "the country has", "to struggled with", "the problems of"],
+    "reference": "SSC CHSL (Tier-I) 19/10/2020 (Shift-I)",
+    "answer": "to struggled with",
+    "explanation": "In the above sentence 'to struggle' will be used in place of 'to struggled' because first from of verb (VI) is used after 'to' ( )1Infinitive To V− + Correct Sentence : The country has to struggle with the problems of child labour."
+  },
+  {
+    "question": "Freedom of expression meaning the right to express one's own convictions and beliefs.",
+    "options": ["meaning the right", "to express one's own", "Freedom of expression", "convictions and beliefs"],
+    "reference": "SSC CHSL (Tier-I) 12/10/2020 (Shift-II)",
+    "answer": "meaning the right",
+    "explanation": "In the above sentence 'means the right' will be used in place of 'meaning the right' because the sentence is in Present Indefinite tense. Hence verb1 will be used. Correct Sentence : Freedom of expression means the right to express one's own convictions and beliefs."
+  },
+  {
+    "question": "Have I ever told you what lovely pickles my grandmother used to made when she was in Visakhapatnam?",
+    "options": ["When she was in", "have I ever told you", "used to made", "what lovely pickles"],
+    "reference": "SSC CHSL (Tier-I) 15/10/2020 (Shift-I)",
+    "answer": "used to made",
+    "explanation": "In the above sentence 'used to make' will be used in place of 'used to made' because the structure 'to + VI' is used as an infinitive. Correct Sentence : Have I ever told you what lovely pickles my grandmother used to make when she was in Visakhapatnam?"
+  },
+  {
+    "question": "Ayan told Sriram, \"Don't worry I can be able to climb that tree to reach the fruit.\"",
+    "options": ["Don't worry", "I can be able to", "climb that tree", "to reach the fruit"],
+    "reference": "SSC CHSL (Tier-I) 15/10/2020 (Shift-I)",
+    "answer": "I can be able to",
+    "explanation": "In the above sentence 'I am able to' will be used in place of 'I can be able to' because the use of able with can is superfluous. Hence 'am able' gives appropriate meaning according to the sense of the sentence. Correct Sentence : Ayan told Sriram, \"Don't worry I am able to climb that tree to reach the fruit.\""
+  },
+  {
+    "question": "Firecrackers have seized by the government went off while being defused on the banks of the river Ganga, in a town in West Bengal.",
+    "options": ["while being defused", "on the banks of the river Ganga", "Firecrackers have seized by the government", "in a town in West Bengal"],
+    "reference": "SSC CHSL (Tier-I) 21/10/2020 (Shift-III)",
+    "answer": "Firecrackers have seized by the government",
+    "explanation": "The above sentence is in passive voice So Firecrackers have been seized by the government is used in place of 'Firecrackers have seized by the government' because the passive voice structure of present perfect tense is as follows :– Object + has/have + been + VIII + by + subject + other. Correct Sentence : Firecrackers have been seized by the government went off while being defused on the banks of the river Ganga, in a town in West Bengal."
+  },
+  {
+    "question": "A 12 year old archer was airlifted to Delhi when he met with an accident while practice for the Khelo India Games in Guwahati.",
+    "options": ["was airlifted to Delhi", "when he met with an accident", "A 12 year old archer", "while practice for the Khelo India Games"],
+    "reference": "SSC CHSL (Tier-I) 21/10/2020 (Shift-III)",
+    "answer": "while practice for the Khelo India Games",
+    "explanation": "In the above sentence 'While practicing for the Khelo India Games' will be used in place of 'While practice for the Khelo India Games' because 'ing' form of the verb is generally used with 'while'. Correct Sentence : A 12 year old archer was airlifted to Delhi when he met with an accident while practicing for the Khelo India Games in Guwahati."
+  },
+  {
+    "question": "When Harry come back home, he saw blood everywhere.",
+    "options": ["When Harry", "blood everywhere", "come back home", "he saw"],
+    "reference": "SSC CHSL (Tier-I) 20/10/2020 (Shift-III)",
+    "answer": "come back home",
+    "explanation": "In the above sentence 'came back home' will be used in place of 'come back home' because the main clause of sentence, simple past, hence the subordinate clause will also be in simple past. Hence came (V2) will be used instead of come (VI) Correct Sentence : When Harry came back home, he saw blood everywhere."
+  },
+  {
+    "question": "If revenues remain healthy, the (1)/ government would, over time, get the necessary (2)/fiscal room to rationalizes multiple GST rate. (3)/No error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 7-10-2017 (Shift-I)",
+    "answer": "3",
+    "explanation": "In the above sentence 'to rationalize' will be used in place of 'to rationalizes' because 'to + VI' is used. Hence Rationalize will be used without s/es. Correct Sentence : If revenues remain healthy, the government would, over time, get the necessary fiscal room to rationalize multiple GST rate."
+  },
+  {
+    "question": "In July, the government promulgate(1)/a law that enables the banning (2)/of political parties.(3)/ No error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 7-10-2017 (Shift-I)",
+    "answer": "1",
+    "explanation": "In the above sentence 'promulgated' will be used in place of 'promulgate' because according to the sense of sentence Past Indefinite tense will be appropriate. Hence verb2 (V 2) will be used. Correct Sentence : In July, the government promulgated a law that enables the banning of political parties."
+  },
+  {
+    "question": "Mumbai was crawling at a (1) / snail's pace yesterday, is slowly (2) / returning to normalcy. (3) / No Error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 9-10-2017 (Shift-III)",
+    "answer": "1",
+    "explanation": "In the above sentence 'which was crawling' will be used in place of 'was crawling' because Pronoun 'which' will be used for subject (Mumbai). because two verb (was, is) are given in the sentence while only one subject (mumbai) is used. So another suitable subject will be used according to the sense of sentence. Correct Sentence - Mumbai, which was crawling at a snail's pace yesterday, is slowly returning to normalcy."
+  },
+  {
+    "question": "But migrant laborers who (a)/ are being working inside the (b)/ premises for years. (c)/ No Error (d).",
+    "options": ["a", "b", "c", "d"],
+    "reference": "SSC MTS 10-10-2017 (Shift-III)",
+    "answer": "b",
+    "explanation": "In the above sentence 'have been working' will be used in place of 'are being working' because 'for + period of time' is given in the following sentence. So Present Perfect continuous tense will be used. has/have + been + verb1 + ing Correct Sentence : But migrant laborers who have been working inside the premises for years."
+  },
+  {
+    "question": "Since they got something (1)/ different each month, (2)/they keep coming back to it. (3)/ No Error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 10-10-2017 (Shift-I)",
+    "answer": "1",
+    "explanation": "In the above sentence get (V1) will be used in place of got (V2) because second clause is in present indefinite tense (keep). Hence v1 (get) will be used in the other clause. Correct Sentence : Since they get something different each month, they keep coming back to it."
+  },
+  {
+    "question": "Even if we missed a day's work, (1)/ out salaries are not cut and we (2) / were paid in full. (3)/ No Error (4)",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 11-10-2017 (Shift-III)",
+    "answer": "2",
+    "explanation": "In the above sentence 'were' will be used in place of 'are' because it is clear from the use of 'we missed and were paid' in the sentence that the sentence is in past tense. Correct Sentence : Even if we missed a day's work, out salaries were not cut and we were paid in full."
+  },
+  {
+    "question": "Tension prevail late on Friday after (a)/ angry protesters pelted stones at the police, (b)/torched vehicles and vandalized publics property (c)/ No Error (d)",
+    "options": ["a", "b", "c", "d"],
+    "reference": "SSC MTS 11-10-2017 (Shift-II)",
+    "answer": "a",
+    "explanation": "It is clear from the second clause of the above sentence that the sentence is in Past Indefinite Tense. So in the first part of sentence prevailed (V2) will be used in place of prevail. Correct Sentence : Tension prevailed late on Friday after angry protesters pelted stones at the police, torched vehicles and vandalized publics property."
+  },
+  {
+    "question": "Over the years our trainers (1)/did helped students to clear the (2)/language tests for various countries. (3)/ No Error (4).",
+    "options": ["1", "2", "3", "4"],
+    "reference": "SSC MTS 11-10-2017 (Shift-I)",
+    "answer": "2",
+    "explanation": "In the above sentence 'helped' will be used in place of 'did helped' because in affirmative sentences of past Indefinite tense, only second form of verb is used without 'did'. Note–S + VIInd form + Obj. (Assertive) Sub + did not + V1 + Obj. (Negative) Did + Sub + V1 + Obj. (Interrogative) Correct Sentence : Over the years our trainers helped students to clear the language tests for various countries."
+  },
+  {
+    "question": "He went up to her and asks her why she had insulted him./No error",
+    "options": ["and asks her why", "she had insulted him", "No error", "He went up to her"],
+    "reference": "SSC MTS – 06/08/2019 (Shift-III)",
+    "answer": "and asks her why",
+    "explanation": "In the above sentence 'asked' will be used in place of 'ask' because first clause (went) in past tense. Hence second clause will be in past Indefinite tense. Correct Sentence- He went up to her and asked her why she had insulted him."
+  },
+  {
+    "question": "He has deposits all his money in banks./No error",
+    "options": ["He has deposits", "money in banks", "up all his", "No error"],
+    "reference": "SSC MTS – 06/08/2019 (Shift-III)",
+    "answer": "He has deposits",
+    "explanation": "In the above sentence Deposited (V3) will be used in place of 'Deposits' because it is clear from the use of 'has' that the sentence is in present perfect tense. has/ have + V3 hence will be used. Correct sentence : He has deposited all his money in banks."
+  },
+  {
+    "question": "Kaira has upset with me since the accident.",
+    "options": ["the accident", "me since", "upset with", "Kaira has"],
+    "reference": "SSC MTS – 22/08/2019 (Shift-III)",
+    "answer": "Kaira has",
+    "explanation": "In the above sentence 'has been' will be used in place of 'has' because it is clear from the use of 'Since + point of time' that the sentence is in Present Perfect continuous hence 'has been' + v3' is used. Correct Sentence :- Kaira has been upset with me since the accident."
+  },
+  {
+    "question": "Radha woke up early that morning so that she should watch the beautiful sunrise.",
+    "options": ["so that she should watch", "Radha woke up", "early that morning", "the beautiful sunrise"],
+    "reference": "SSC MTS – 22/08/2019 (Shift-II)",
+    "answer": "so that she should watch",
+    "explanation": "In the above sentence 'could' will be used in place of 'should' because could will be used for possibility. Correct sentence : Radha woke up that morning so that she could watch the beautiful sunrise."
+  },
+  {
+    "question": "Harish is spending two hours every morning reading newspapers in different languages.",
+    "options": ["two hours every morning", "in different languages", "reading newspapers", "Harish is spending"],
+    "reference": "SSC MTS – 22/08/2019 (Shift-II)",
+    "answer": "Harish is spending",
+    "explanation": "In the above sentence 'spends' will be used in place of 'is spending' because Present Indefinite tense is used for habitual action. Correct Sentence : Harish spends two hours every morning reading newspapers in different languages."
+  },
+  {
+    "question": "He started life as a teacher before turn to journalism.",
+    "options": ["He started life", "as a teacher", "to journalism", "before turn"],
+    "reference": "SSC MTS – 22/08/2019 (Shift-II) SSC MTS – 08/08/2019 (Shift-III)",
+    "answer": "before turn",
+    "explanation": "In the above sentence 'before turning' will be used in place of 'before turn' Rule :– Preposition at, in, on, to , before, after, for, from, about etc are followed by verb's ing form. Correct sentence :- He started life as a teacher before turning to journalism."
+  },
+  {
+    "question": "The more he earned the more he want to earn./No error.",
+    "options": ["the more he", "No error", "want to earn", "The more he earned"],
+    "reference": "SSC MTS – 08/08/2019 (Shift-I)",
+    "answer": "want to earn",
+    "explanation": "In the above sentence 'wanted' will be used in place of 'want' because if the main clause of the sentence is in the past tense then other clause also will be used in the past. Correct sentence :- The more he earned the more he wanted to earn."
+  },
+  {
+    "question": "Either of the two books will met my requirement./No error",
+    "options": ["Either of the", "No error", "will met my requirement", "two books"],
+    "reference": "SSC MTS – 06/08/2019 (Shift-I)",
+    "answer": "will met my requirement",
+    "explanation": "In the above sentence 'will meet' will be used in place of 'will met' because Ist form of verb is used with modal verb 'will'. Correct sentence :- Either of the two books will meet my requirement."
+  },
+  {
+    "question": "She wanted to telling you who you could approach for your problem./No error",
+    "options": ["No error", "who you could approach", "for your problem", "She wanted telling you"],
+    "reference": "SSC MTS – 02/08/2019 (Shift-III)",
+    "answer": "She wanted telling you",
+    "explanation": "In the above sentence 'she wanted to tell you' will be used in place of 'she wanted to telling you' because verb1 with infinitive 'to' Note– Want, promise, learn, manage etc. (to +V1) Correct sentence :- She wanted to tell you who you could approach for your problem."
+  },
+  {
+    "question": "All the students/is done/better this year.",
+    "options": ["All the students", "is done", "No error", "better this year"],
+    "reference": "SSC MTS – 02/08/2019 (Shift-II)",
+    "answer": "is done",
+    "explanation": "In the above sentence 'have done' will be used in place of 'is done' because according to the sense of the sentence it is in present perfect tense. Hence has/have + V3 will be used. Correct sentence :- All the students have done better this year."
+  },
+  {
+    "question": "Rakesh is foolish/to said/such things.",
+    "options": ["to said", "No error", "such things", "Rakesh is foolish"],
+    "reference": "SSC MTS – 02/08/2019 (Shift-II)",
+    "answer": "to said",
+    "explanation": "In the above sentence 'to say' will be used in place of 'to said' because the verb coming after 'to' is in VIst form. Note - to + verb1 Correct sentence :- Rakesh is foolish to say such things."
+  },
+  {
+    "question": "I told the tailor/to made a new/dress for me./No error.",
+    "options": ["dress for me", "I told the tailor", "No error", "to made a new"],
+    "reference": "SSC MTS – 02/08/2019 (Shift-I)",
+    "answer": "to made a new",
+    "explanation": "In the above sentence 'To make a new' will be used in place of 'to made a new' because to + VI is use as infinitive. Correct sentence :- I told the tailor to make a new dress for me."
+  },
+  {
+    "question": "Jaya asked Sushmita to reminds her about the meeting.",
+    "options": ["Sushmita to reminds", "Jaya asked", "the meeting", "her about"],
+    "reference": "SSC MTS – 20/08/2019 (Shift-II)",
+    "answer": "Sushmita to reminds",
+    "explanation": "In the above sentence 'to remind' will be used in place of 'to reminds' because here infinitive has been used in which is appropriate Correct sentence :- Jaya asked Sushmita to remind her about the meeting."
+  },
+  {
+    "question": "Zainab was played with/her friends in the park/when she noticed Disha/walking away with a stranger.",
+    "options": ["Zainab was played with", "walking away with a stranger", "when she noticed Disha", "her friends in the park"],
+    "reference": "SSC MTS – 20/08/2019 (Shift-I)",
+    "answer": "Zainab was played with",
+    "explanation": "In the above sentence 'Playing' will be used in place of 'Played' because the given sentence is in active voice of Past continuous. Hence (was/were + V1 + ing) will be used. Correct sentence : ''Zainab was playing with her friends in the park when She noticed Disha walking away with a stranger.''"
+  },
+  {
+    "question": "The priest request all the wealthy men to donate money for building a new temple.",
+    "options": ["for building a new temple", "The priest request", "to donate money", "all the wealthy men"],
+    "reference": "SSC MTS – 16/08/2019 (Shift-II)",
+    "answer": "The priest request",
+    "explanation": "In the above Sentence 'requested' will be used in place of 'request' because according to sense of the given sentence it will be used in past Indefinite tense. Correct sentence : The priest requested all the wealthy men to donate money for building a new temple."
+  }
+]
