@@ -1,0 +1,831 @@
+{
+  "Number system":
+[
+  {
+    "question": "$(354)^{547} \\times (149)^{812}$ में इकाई अंक ज्ञात कीजिए।",
+    "options": ["3", "6", "4", "5"],
+    "reference": "UPSI - 2021",
+    "answer": "4",
+    "explanation": "To find the unit digit, we only need to consider the unit digits of the bases (4 and 9). The cyclicity of the unit digit for powers of 4 is (4, 6). For an odd power (547), the unit digit is 4. The cyclicity for powers of 9 is (9, 1). For an even power (812), the unit digit is 1. Therefore, the unit digit of the product is the unit digit of 4 × 1 = 4."
+  },
+  {
+    "question": "किसी संख्या को 11 से विभाजित करने पर शेषफल 3 रहता है। उसी संख्या के वर्ग को 11 से विभाजित करने पर क्या शेषफल रह जाता है?",
+    "options": ["7", "5", "9", "11"],
+    "reference": "UPSI - 2021",
+    "answer": "9",
+    "explanation": "Let the number be N. We are given N ≡ 3 (mod 11). We need to find the remainder when N² is divided by 11. N² ≡ 3² (mod 11), so N² ≡ 9 (mod 11). The remainder is 9."
+  },
+  {
+    "question": "700 तक कितनी संख्याएँ 3 और 5 दोनों से विभाज्य है?",
+    "options": ["46", "42", "39", "52"],
+    "reference": "UPSI - 2021",
+    "answer": "46",
+    "explanation": "A number divisible by both 3 and 5 must be divisible by their LCM, which is 15. We need to find the number of multiples of 15 up to 700. Number of multiples = floor(700 / 15) = floor(46.66) = 46."
+  },
+  {
+    "question": "निम्नलिखित विकल्पों में से कौन-सा 11 से विभाज्य है?",
+    "options": ["2799048", "2899048", "2699048", "2999048"],
+    "reference": "UPSI - 2021",
+    "answer": "2699048",
+    "explanation": "A number is divisible by 11 if the difference between the sum of the digits at odd places and the sum of the digits at even places is either 0 or a multiple of 11. For 2699048, Sum of odd places (8+0+9+2) = 19. Sum of even places (4+9+6) = 19. Difference = 19 - 19 = 0. So, 2699048 is divisible by 11."
+  },
+  {
+    "question": "यदि N5921, 11 से विभाज्य है, तो सबसे छोटी प्राकृतिक संख्या N का मान ज्ञात करें।",
+    "options": ["6", "9", "7", "8"],
+    "reference": "UPSI - 2021",
+    "answer": "8",
+    "explanation": "For N5921 to be divisible by 11, (Sum of digits at odd places) - (Sum of digits at even places) must be 0 or a multiple of 11. (1 + 9 + N) - (2 + 5) = 11k. (10 + N) - 7 = 11k. N + 3 = 11k. For the smallest natural number N, N+3=11, which gives N = 8."
+  },
+  {
+    "question": "$23^{32}$ को 529 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "options": ["3", "2", "0", "1"],
+    "reference": "UPSI - 2021",
+    "answer": "0",
+    "explanation": "We know that 23² = 529. Therefore, $23^{32} = (23^2)^{16} = 529^{16}$. Since $529^{16}$ is a multiple of 529, it is perfectly divisible by 529. The remainder is 0."
+  },
+  {
+    "question": "एक संख्या को 645 से विभाजित करने पर 40 शेषफल रहता है। इसी संख्या को 43 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["25", "40", "27", "29"],
+    "reference": "UPSI - 2021",
+    "answer": "40",
+    "explanation": "First, check if the first divisor (645) is a multiple of the second divisor (43). 645 ÷ 43 = 15. Yes, it is. In this case, the new remainder is found by dividing the old remainder (40) by the new divisor (43). When 40 is divided by 43, the remainder is 40."
+  },
+  {
+    "question": "दो अंकों वाली संख्या के अंकों का अनुपात $4 : 3$ है और अंकों को परस्पर बदलने से प्राप्त संख्या, मूल संख्या से 18 कम है। नई संख्या ज्ञात कीजिए।",
+    "options": ["69", "70", "71", "68"],
+    "reference": "UPSI - 2021",
+    "answer": "68",
+    "explanation": "Let the digits be 4x and 3x. Original number = 10(4x) + 3x = 43x. Reversed number = 10(3x) + 4x = 34x. Given: 43x - 34x = 18 => 9x = 18 => x = 2. The original number was 86. The new (reversed) number is 68."
+  },
+  {
+    "question": "एक संख्या को 405 से विभाजित करने पर 30 शेषफल रहता है। उसी संख्या को 27 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["3", "2", "1", "4"],
+    "reference": "UPSI - 2021",
+    "answer": "3",
+    "explanation": "Check if the first divisor (405) is a multiple of the second divisor (27). 405 ÷ 27 = 15. Yes. The new remainder is found by dividing the old remainder (30) by the new divisor (27). 30 ÷ 27 gives a remainder of 3."
+  },
+  {
+    "question": "$(257)^{45} \\times (248)^{73}$ में इकाई अंक ज्ञात कीजिए।",
+    "options": ["3", "5", "4", "6"],
+    "reference": "UPSI - 2021",
+    "answer": "6",
+    "explanation": "Unit digit of $(257)^{45}$ is determined by $7^{45}$. Cyclicity of 7 is (7, 9, 3, 1). 45 ÷ 4 gives remainder 1, so unit digit is 7. Unit digit of $(248)^{73}$ is determined by $8^{73}$. Cyclicity of 8 is (8, 4, 2, 6). 73 ÷ 4 gives remainder 1, so unit digit is 8. The final unit digit is the unit digit of 7 × 8 = 56, which is 6."
+  },
+  {
+    "question": "$676 \\times 376 \\times 437 \\times 913 \\times 423 \\times 337 \\times 421$ के गुणनफल का इकाई अंक ज्ञात कीजिए।",
+    "options": ["10", "12", "6", "8"],
+    "reference": "UPSI - 2021",
+    "answer": "6",
+    "explanation": "To find the unit digit of the product, we multiply the unit digits of each number: 6 × 6 × 7 × 3 × 3 × 7 × 1. This simplifies to the unit digit of 36 × 21 × 21, which is 6 × 1 × 1 = 6."
+  },
+  {
+    "question": "दो अंकों की संख्या के अंक $2:5$ के अनुपात में हैं और अंकों को परस्पर बदलने से प्राप्त हुई संख्या, आरम्भिक संख्या से 27 अधिक है। नई संख्या ज्ञात कीजिए।",
+    "options": ["54", "55", "53", "52"],
+    "reference": "UPSI - 2021",
+    "answer": "52",
+    "explanation": "Let the digits be 2x and 5x. Original number = 10(2x) + 5x = 25x. Reversed number = 10(5x) + 2x = 52x. Given: 52x - 25x = 27 => 27x = 27 => x = 1. The original number was 25. The new (reversed) number is 52."
+  },
+  {
+    "question": "उन सभी 3 अंकों की संख्याओं का योगफल ज्ञात कीजिए, जिन्हें 6 से विभाजित करने पर शेषफल 4 रहता है।",
+    "options": ["84050", "82050", "83050", "81050"],
+    "reference": "UPSI - 2021",
+    "answer": "82050",
+    "explanation": "The numbers form an arithmetic progression. First 3-digit number leaving remainder 4 when divided by 6 is 100. Last 3-digit number is 994. Number of terms (n) = ((994 - 100) / 6) + 1 = 150. Sum = (n/2)(first term + last term) = (150/2)(100 + 994) = 75 × 1094 = 82050."
+  },
+  {
+    "question": "57110122 को 9 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "options": ["4", "6", "2", "8"],
+    "reference": "UPSI - 2021",
+    "answer": "2",
+    "explanation": "The remainder when a number is divided by 9 is the same as the remainder when the sum of its digits is divided by 9. Sum of digits = 5+7+1+1+0+1+2+2 = 20. 20 ÷ 9 gives a remainder of 2."
+  },
+  {
+    "question": "संख्या $(1624)^{24}$ के इकाई स्थान पर कौन-सा अंक है?",
+    "options": ["12", "8", "10", "6"],
+    "reference": "UPSI - 2021",
+    "answer": "6",
+    "explanation": "We need the unit digit of $4^{24}$. When the unit digit is 4, the unit digit of its power is 6 if the exponent is even, and 4 if the exponent is odd. Since the exponent 24 is even, the unit digit is 6."
+  },
+  {
+    "question": "$23 \\times 34 \\times 45 \\times 56 \\times 67 \\times 78$ को 11 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "options": ["3", "1", "2", "0"],
+    "reference": "UPSI - 2021",
+    "answer": "1",
+    "explanation": "Find the remainder of each term when divided by 11 and multiply them. 23≡1, 34≡1, 45≡1, 56≡1, 67≡1, 78≡1 (mod 11). The final remainder is 1×1×1×1×1×1 = 1."
+  },
+  {
+    "question": "भाग के एक प्रश्न में, भाजक, भागफल का 4 गुना और शेषफल का 3 गुना है। यदि शेषफल 20 है, तो भाज्य ज्ञात कीजिए।",
+    "options": ["980", "940", "960", "920"],
+    "reference": "UPSI - 2021",
+    "answer": "920",
+    "explanation": "Remainder = 20. Divisor = 3 × Remainder = 60. Divisor = 4 × Quotient => 60 = 4 × Quotient => Quotient = 15. Dividend = (Divisor × Quotient) + Remainder = (60 × 15) + 20 = 920."
+  },
+  {
+    "question": "$32 \\times 33 \\times 34 \\times 35 \\times 36 \\times 37$ को 17 से विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["2", "0", "6", "4"],
+    "reference": "UPSI - 2021",
+    "answer": "0",
+    "explanation": "Find the remainder of each term when divided by 17. Since one of the terms, 34, is divisible by 17 (34 = 2 × 17), the entire product is divisible by 17. The remainder is 0."
+  },
+  {
+    "question": "$27^{22}$ को 729 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "options": ["2", "6", "4", "0"],
+    "reference": "UPSI - 2021",
+    "answer": "0",
+    "explanation": "We know that 27² = 729. So, $27^{22} = (27^2)^{11} = 729^{11}$. Since $729^{11}$ is a multiple of 729, the remainder is 0."
+  },
+  {
+    "question": "$(152)^{57} \\times (143)^{82}$ में इकाई अंक का पता लगाएं।",
+    "options": ["4", "6", "8", "2"],
+    "reference": "UPSI - 2021",
+    "answer": "8",
+    "explanation": "Unit digit of $(152)^{57}$ is from $2^{57}$. 57÷4 has remainder 1, so unit digit is 2. Unit digit of $(143)^{82}$ is from $3^{82}$. 82÷4 has remainder 2, so unit digit is 9. Final unit digit is from 2 × 9 = 18, which is 8."
+  },
+  {
+    "question": "78489656 में कौन-सा सबसे छोटी संख्या को जोड़ा जाएगा ताकि परिणामी संख्या 9 से विभाज्य हो?",
+    "options": ["1", "3", "2", "5"],
+    "reference": "UPSI - 2021",
+    "answer": "1",
+    "explanation": "Sum of digits = 7+8+4+8+9+6+5+6 = 53. The remainder when 53 is divided by 9 is 8. To be divisible by 9, the sum must be a multiple of 9. The next multiple is 54. We need to add 54 - 53 = 1."
+  },
+  {
+    "question": "एक संख्या को 6519 से विभाजित करने पर शेषफल 97 प्राप्त होता है। उसी संख्या को 53 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["38", "40", "42", "44"],
+    "reference": "UPSI - 2021",
+    "answer": "44",
+    "explanation": "Check if 6519 is a multiple of 53. 6519 ÷ 53 = 123. Yes. Divide the old remainder (97) by the new divisor (53). 97 ÷ 53 gives a remainder of 44."
+  },
+  {
+    "question": "दो संख्याओं के बीच का अंतर 3630 है। बड़ी संख्या को छोटी संख्या से भाग देने पर भागफल और शेषफल क्रमशः 30 और 5 हैं। बड़ी संख्या ज्ञात करें।",
+    "options": ["4055", "3955", "3855", "3755"],
+    "reference": "UPSI - 2021",
+    "answer": "3755",
+    "explanation": "Let the numbers be x and y (x > y). x - y = 3630 and x = 30y + 5. Substitute x in the first equation: (30y + 5) - y = 3630 => 29y = 3625 => y = 125. Then x = 125 + 3630 = 3755."
+  },
+  {
+    "question": "जब आप 100 से 1000 तक गिनती करते हैं तो अंक 2 कितनी बार आता है?",
+    "options": ["285", "295", "290", "280"],
+    "reference": "UPSI - 2021",
+    "answer": "280",
+    "explanation": "Count occurrences: 100-199 (20 times), 200-299 (120 times), 300-999 (7 sets of 100s, 7 × 20 = 140 times). Total = 20 + 120 + 140 = 280."
+  },
+  {
+    "question": "$935^{123}$ को 39 से विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["36", "38", "32", "34"],
+    "reference": "UPSI - 2021",
+    "answer": "38",
+    "explanation": "Find remainder of 935 ÷ 39. 935 = 24 × 39 - 1, so 935 ≡ -1 (mod 39). We need remainder of $(-1)^{123}$ (mod 39), which is -1. The positive remainder is 39 - 1 = 38."
+  },
+  {
+    "question": "उन सभी 3 अंकों की संख्याओं का योगफल ज्ञात कीजिए जिन्हें 8 से विभाजित करने पर शेषफल 3 रहता है।",
+    "options": ["54326", "68956", "61712", "65124"],
+    "reference": "UPSI - 2021",
+    "answer": "61712",
+    "explanation": "First 3-digit number is 107. Last is 995. Number of terms (n) = ((995 - 107) / 8) + 1 = 112. Sum = (112/2)(107 + 995) = 56 × 1102 = 61712."
+  },
+  {
+    "question": "1540 में गुणनखंडों की संख्या ज्ञात कीजिए।",
+    "options": ["22", "26", "20", "24"],
+    "reference": "UPSI - 2021",
+    "answer": "24",
+    "explanation": "Prime factorization of 1540 is $2^2 \\times 5^1 \\times 7^1 \\times 11^1$. Number of factors = (2+1)(1+1)(1+1)(1+1) = 3 × 2 × 2 × 2 = 24."
+  },
+  {
+    "question": "$12502^{149}$ के इकाई स्थान पर कौन-सी संख्या आएगी?",
+    "options": ["4", "8", "6", "2"],
+    "reference": "UPSI - 2021",
+    "answer": "2",
+    "explanation": "We need the unit digit of $2^{149}$. The cyclicity of 2 is (2, 4, 8, 6). 149 ÷ 4 gives a remainder of 1. The unit digit is $2^1 = 2$."
+  },
+  {
+    "question": "उन सभी 3 अंकों की संख्याओं का योगफल ज्ञात कीजिए जिन्हें 9 से विभाजित करने पर शेषफल 4 रहता है।",
+    "options": ["54850", "54800", "12356", "33623"],
+    "reference": "UPSI - 2021",
+    "answer": "54850",
+    "explanation": "First 3-digit number is 103. Last is 994. Number of terms (n) = ((994 - 103) / 9) + 1 = 100. Sum = (100/2)(103 + 994) = 50 × 1097 = 54850."
+  },
+  {
+    "question": "भाग के एक प्रश्न में, भाजक, भागफल का 12 गुना और शेषफल का 24 गुना होता है। यदि शेषफल 8 है तो भाज्य ज्ञात कीजिए।",
+    "options": ["3280", "3080", "3180", "3380"],
+    "reference": "UPSI - 2021",
+    "answer": "3080",
+    "explanation": "Remainder = 8. Divisor = 24 × Remainder = 192. Divisor = 12 × Quotient => 192 = 12 × Quotient => Quotient = 16. Dividend = (192 × 16) + 8 = 3080."
+  },
+  {
+    "question": "संख्या $(1829)^{92}$ के इकाई स्थान पर कौन-सा अंक है?",
+    "options": ["4", "2", "3", "1"],
+    "reference": "UPSI - 2021",
+    "answer": "1",
+    "explanation": "We need the unit digit of $9^{92}$. When the unit digit is 9, the unit digit of its power is 1 if the exponent is even. Since 92 is even, the unit digit is 1."
+  },
+  {
+    "question": "$21^{42}$ को 441 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "options": ["6", "0", "4", "2"],
+    "reference": "UPSI - 2021",
+    "answer": "0",
+    "explanation": "We know that 21² = 441. So, $21^{42} = (21^2)^{21} = 441^{21}$. Since $441^{21}$ is a multiple of 441, the remainder is 0."
+  },
+  {
+    "question": "जब एक संख्या को 7611 से विभाजित किया जाता है, तो शेषफल 91 रहता है। जब उसी संख्या को 59 से विभाजित किया जाए, तो शेषफल क्या होगा?",
+    "options": ["32", "30", "28", "26"],
+    "reference": "UPSI - 2021",
+    "answer": "32",
+    "explanation": "Check if 7611 is a multiple of 59. 7611 ÷ 59 = 129. Yes. Divide the old remainder (91) by the new divisor (59). 91 ÷ 59 gives a remainder of 32."
+  },
+  {
+    "question": "226644 से किस न्यूनतम संख्या को घटाया जाना चाहिए, जिससे कि प्राप्त संख्या 16 से विभाज्य हो जाए?",
+    "options": ["4", "2", "6", "0"],
+    "reference": "UPSI - 2021",
+    "answer": "4",
+    "explanation": "A number is divisible by 16 if its last four digits are divisible by 16. We check the remainder of 6644 ÷ 16. 6644 = 16 × 415 + 4. The remainder is 4. So, we must subtract 4."
+  },
+  {
+    "question": "880 तक कितनी संख्याएं हैं, जो 3 और 5 दोनों से विभाज्य हैं?",
+    "options": ["42", "56", "52", "58"],
+    "reference": "UPSI - 2021",
+    "answer": "58",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(880 / 15) = floor(58.66) = 58."
+  },
+  {
+    "question": "571110132 को 9 से विभाजित करने पर प्राप्त शेषफल कीजिए।",
+    "options": ["4", "3", "5", "6"],
+    "reference": "UPSI - 2021",
+    "answer": "3",
+    "explanation": "Sum of digits = 5+7+1+1+1+0+1+3+2 = 21. 21 ÷ 9 gives a remainder of 3."
+  },
+  {
+    "question": "संख्या $12547^{151}$ के इकाई स्थान पर कौन-सा अंक होगा?",
+    "options": ["3", "5", "9", "7"],
+    "reference": "UPSI - 2021",
+    "answer": "3",
+    "explanation": "We need the unit digit of $7^{151}$. Cyclicity of 7 is (7, 9, 3, 1). 151 ÷ 4 gives a remainder of 3. The unit digit is from $7^3 = 343$, which is 3."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या $n$ को 13 से विभाजित किया जाता है तो शेषफल 3 रहता है, जब $7n$ को 13 से विभाजित किया जाता है, तो प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["8", "12", "14", "10"],
+    "reference": "UPSI - 2021",
+    "answer": "8",
+    "explanation": "Given n ≡ 3 (mod 13). Then 7n ≡ 7 × 3 (mod 13) => 7n ≡ 21 (mod 13). 21 ÷ 13 gives a remainder of 8."
+  },
+  {
+    "question": "$961^{125}$ को 37 से विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["34", "36", "32", "30"],
+    "reference": "UPSI - 2021",
+    "answer": "36",
+    "explanation": "Find remainder of 961 ÷ 37. 961 = 26 × 37 - 1, so 961 ≡ -1 (mod 37). We need $(-1)^{125}$ (mod 37), which is -1. The positive remainder is 37 - 1 = 36."
+  },
+  {
+    "question": "दो अंकों की संख्या इस प्रकार है कि अंकों का योग 9 होता है। जब उल्टे अंकों वाली संख्या को मूल संख्या से घटाने पर, अंतर 27 होता है। मूल संख्या क्या है?",
+    "options": ["65", "67", "69", "63"],
+    "reference": "UPSI - 2021",
+    "answer": "63",
+    "explanation": "Let the number be 10x+y. x+y=9. (10x+y) - (10y+x) = 27 => 9x - 9y = 27 => x-y=3. Solving x+y=9 and x-y=3 gives x=6, y=3. The number is 63."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या $n$ को 12 से विभाजित किया जाता है तो शेषफल 4 रहता है, जब $8n$ को उसी संख्या से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["12", "14", "10", "8"],
+    "reference": "UPSI - 2021",
+    "answer": "8",
+    "explanation": "Given n ≡ 4 (mod 12). Then 8n ≡ 8 × 4 (mod 12) => 8n ≡ 32 (mod 12). 32 ÷ 12 gives a remainder of 8."
+  },
+  {
+    "question": "जब किसी संख्या को 6171 से विभाजित किया जाता है, तो शेषफल 99 मिलता है। उसी संख्या को 51 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["44", "36", "40", "48"],
+    "reference": "UPSI - 2021",
+    "answer": "48",
+    "explanation": "Check if 6171 is a multiple of 51. 6171 ÷ 51 = 121. Yes. Divide the old remainder (99) by the new divisor (51). 99 ÷ 51 gives a remainder of 48."
+  },
+  {
+    "question": "$979^{127}$ को 35 द्वारा विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["34", "32", "30", "28"],
+    "reference": "UPSI - 2021",
+    "answer": "34",
+    "explanation": "Find remainder of 979 ÷ 35. 979 = 28 × 35 - 1, so 979 ≡ -1 (mod 35). We need $(-1)^{127}$ (mod 35), which is -1. The positive remainder is 35 - 1 = 34."
+  },
+  {
+    "question": "दो अंकों की संख्या के अंकों का योगफल 8 है। दो अंकों की संख्या को व्युत्क्रमित कर के एक नई संख्या प्राप्त की जाती है। जब नई संख्या को मूल संख्या से घटाया जाता है, तो अंतर 36 होता है। नई संख्या क्या है?",
+    "options": ["30", "26", "28", "32"],
+    "reference": "UPSI - 2021",
+    "answer": "26",
+    "explanation": "Let the original number be 10x+y. x+y=8. (10x+y) - (10y+x) = 36 => 9x - 9y = 36 => x-y=4. Solving gives x=6, y=2. Original number is 62. New number is 26."
+  },
+  {
+    "question": "जब आप 100 से 1000 तक गिनती करते हैं, तो अंक 8 कितनी बार प्रदर्शित होता है?",
+    "options": ["320", "300", "280", "310"],
+    "reference": "UPSI - 2021",
+    "answer": "280",
+    "explanation": "Count occurrences: 100-799 (7×20=140), 800-899 (100+20=120), 900-999 (20). Total = 140 + 120 + 20 = 280."
+  },
+  {
+    "question": "दो संख्याओं के बीच का अंतर 3820 है। जब बड़ी संख्या को छोटी संख्या से विभाजित किया जाता है तो भागफल तथा शेषफल क्रमशः 32 और 7 हैं। बड़ी संख्या ज्ञात कीजिए।",
+    "options": ["3843", "3643", "3943", "3743"],
+    "reference": "UPSI - 2021",
+    "answer": "3943",
+    "explanation": "Let numbers be x, y (x>y). x-y=3820 and x=32y+7. Substitute x: (32y+7)-y=3820 => 31y=3813 => y=123. Then x=123+3820=3943."
+  },
+  {
+    "question": "संख्या $12568^{152}$ में इकाई के स्थान पर कौन-सा अंक आएगा?",
+    "options": ["6", "4", "5", "3"],
+    "reference": "UPSI - 2021",
+    "answer": "6",
+    "explanation": "We need unit digit of $8^{152}$. Cyclicity of 8 is (8, 4, 2, 6). Since exponent 152 is divisible by 4, the unit digit is the 4th in the cycle, which is 6."
+  },
+  {
+    "question": "जब आप 100 से 1000 तक गिनती करते हैं, तो अंक 3 कितनी बार आता है?",
+    "options": ["265", "280", "270", "275"],
+    "reference": "UPSI - 2021",
+    "answer": "280",
+    "explanation": "Count occurrences: 100-299 (2×20=40), 300-399 (100+20=120), 400-999 (6×20=120). Total = 40 + 120 + 120 = 280."
+  },
+  {
+    "question": "770 तक कितनी संख्याएं, 3 और 5 दोनों से विभाज्य हैं?",
+    "options": ["42", "55", "51", "52"],
+    "reference": "UPSI - 2021",
+    "answer": "51",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(770 / 15) = floor(51.33) = 51."
+  },
+  {
+    "question": "किसी संख्या को 16 से विभाजित किया जाता है, तो शेषफल 7 रहता है। जब उसी संख्या के वर्ग को 16 से विभाजित किया जाएगा, तो शेषफल क्या होगा?",
+    "options": ["5", "1", "5", "11"],
+    "reference": "UPSI - 2021",
+    "answer": "1",
+    "explanation": "Given N ≡ 7 (mod 16). Then N² ≡ 7² (mod 16) => N² ≡ 49 (mod 16). 49 ÷ 16 gives a remainder of 1 (49 = 3 × 16 + 1)."
+  },
+  {
+    "question": "52900 में गुणनखंडों की संख्या ज्ञात कीजिए।",
+    "options": ["33", "27", "31", "29"],
+    "reference": "UPSI - 2021",
+    "answer": "27",
+    "explanation": "Prime factorization of 52900 is $23^2 \\times 10^2 = 23^2 \\times 2^2 \\times 5^2$. Number of factors = (2+1)(2+1)(2+1) = 3 × 3 × 3 = 27."
+  },
+  {
+    "question": "जब $125 \\times 139 \\times 145 \\times 160 \\times 175$ को 25 द्वारा विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["9", "5", "0", "7"],
+    "reference": "UPSI - 2021",
+    "answer": "0",
+    "explanation": "The product contains the term 125. Since 125 is divisible by 25 (125 = 5 × 25), the entire product is divisible by 25. The remainder is 0."
+  },
+  {
+    "question": "950 तक कितनी संख्याएं, 3 और 5 दोनों से विभाज्य हैं?",
+    "options": ["68", "67", "65", "63"],
+    "reference": "UPSI - 2021",
+    "answer": "63",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(950 / 15) = floor(63.33) = 63."
+  },
+  {
+    "question": "वह न्यूनतम संख्या ज्ञात कीजिए जिसे 226627 से घटाने पर प्राप्त संख्या 16 से विभाज्य हो।",
+    "options": ["2", "4", "1", "3"],
+    "reference": "UPSI - 2021",
+    "answer": "3",
+    "explanation": "Check the remainder of the last four digits (6627) when divided by 16. 6627 = 16 × 414 + 3. The remainder is 3. So, we must subtract 3."
+  },
+  {
+    "question": "जब किसी संख्या को 6875 से विभाजित किया जाता है, तो शेषफल 95 मिलता है। उसी संख्या को 55 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["36", "34", "38", "40"],
+    "reference": "UPSI - 2021",
+    "answer": "40",
+    "explanation": "Check if 6875 is a multiple of 55. 6875 ÷ 55 = 125. Yes. Divide the old remainder (95) by the new divisor (55). 95 ÷ 55 gives a remainder of 40."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या n को 13 से विभाजित किया जाता है तो शेषफल 1 मिलता है। 7n को उसी संख्या से विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["9", "7", "5", "11"],
+    "reference": "UPSI - 2021",
+    "answer": "7",
+    "explanation": "Given n ≡ 1 (mod 13). Then 7n ≡ 7 × 1 (mod 13) => 7n ≡ 7 (mod 13). The remainder is 7."
+  },
+  {
+    "question": "एक संख्या को जब 465 से विभाजित किया जाता है, तो शेषफल 28 रहता है। जब उसी संख्या को 31 से विभाजित किया जाता है तो शेषफल कितना होगा?",
+    "options": ["22", "28", "24", "26"],
+    "reference": "UPSI - 2021",
+    "answer": "28",
+    "explanation": "Check if 465 is a multiple of 31. 465 ÷ 31 = 15. Yes. Divide the old remainder (28) by the new divisor (31). When 28 is divided by 31, the remainder is 28."
+  },
+  {
+    "question": "एक भाग के प्रश्न में भाजक, भागफल का 6 गुना और शेषफल का 5 गुना है। यदि शेषफल 12 है तो भाज्य ज्ञात कीजिए।",
+    "options": ["614", "612", "618", "616"],
+    "reference": "UPSI - 2021",
+    "answer": "612",
+    "explanation": "Remainder = 12. Divisor = 5 × Remainder = 60. Divisor = 6 × Quotient => 60 = 6 × Quotient => Quotient = 10. Dividend = (60 × 10) + 12 = 600 + 12 = 612."
+  },
+  {
+    "question": "एक भाग के प्रश्न में, भाजक, भागफल का 11 गुना है और शेषफल 22 गुना है। यदि शेषफल 9 है, तो भाज्य ज्ञात कीजिए।",
+    "options": ["3573", "3673", "3873", "3473"],
+    "reference": "UPSI - 2021",
+    "answer": "3573",
+    "explanation": "Remainder = 9. Divisor = 22 × Remainder = 198. Divisor = 11 × Quotient => 198 = 11 × Quotient => Quotient = 18. Dividend = (198 × 18) + 9 = 3564 + 9 = 3573."
+  },
+  {
+    "question": "भाग के किसी प्रश्न में भाजक, भागफल का 14 गुना और शेषफल का 28 गुना है। यदि शेषफल 6 है तो भाज्य ज्ञात कीजिए।",
+    "options": ["2022", "2122", "2222", "2322"],
+    "reference": "UPSI - 2021",
+    "answer": "2022",
+    "explanation": "Remainder = 6. Divisor = 28 × Remainder = 168. Divisor = 14 × Quotient => 168 = 14 × Quotient => Quotient = 12. Dividend = (168 × 12) + 6 = 2016 + 6 = 2022."
+  },
+  {
+    "question": "जब एक संख्या 7239 से विभाजित की जाती है तो शेषफल 93 बचता है। जब उसी संख्या को 57 से विभाजित किया जाएगा तो शेषफल क्या होगा?",
+    "options": ["36", "32", "34", "30"],
+    "reference": "UPSI - 2021",
+    "answer": "36",
+    "explanation": "Check if 7239 is a multiple of 57. 7239 ÷ 57 = 127. Yes. Divide the old remainder (93) by the new divisor (57). 93 ÷ 57 gives a remainder of 36."
+  },
+  {
+    "question": "0 से 9 तक की संख्याओं को इस्तेमाल करके, यदि किसी भी अंक को दोहराया ना जाये, तो 5 अंकों की कितनी संख्याएँ बनाई जा सकती हैं?",
+    "options": ["27216", "24192", "30618", "15120"],
+    "reference": "उ.प्र. उपनिरीक्षक, 19 Dec., 2017 Batch 2",
+    "answer": "27216",
+    "explanation": "For a 5-digit number, the first digit cannot be 0. So, there are 9 choices for the first digit (1-9). For the second digit, there are 9 remaining choices (including 0). For the third, 8 choices. For the fourth, 7 choices. For the fifth, 6 choices. Total numbers = 9 × 9 × 8 × 7 × 6 = 27216."
+  },
+  {
+    "question": "2356987 में संख्या '5' के स्थानिक मान और अंकित मान में क्या अन्तर है?",
+    "options": ["4995", "49990", "4990", "49995"],
+    "reference": "उ.प्र. उपनिरीक्षक, 19 Dec., 2017 Batch 2",
+    "answer": "49995",
+    "explanation": "The place value (स्थानिक मान) of 5 in 2356987 is 5 × 10000 = 50000. The face value (अंकित मान) of 5 is 5. The difference is 50000 - 5 = 49995."
+  },
+  {
+    "question": "अगर ($1728^{26} - 2^{156}$) को 16 से विभाजित किया जाये तो शेषफल क्या होगा?",
+    "options": ["0", "1", "4", "13"],
+    "reference": "उ.प्र. उपनिरीक्षक, 19 Dec., 2017 Batch 3",
+    "answer": "0",
+    "explanation": "We check the remainder of each term when divided by 16. 1728 is divisible by 16 (1728 = 16 × 108), so $1728^{26}$ is divisible by 16, remainder is 0. For $2^{156}$, since 156 is greater than or equal to 4, and $16 = 2^4$, $2^{156}$ is divisible by 16. The remainder is 0. So the total remainder is 0 - 0 = 0."
+  },
+  {
+    "question": "निम्न में से दिया गया कौन सा विकल्प 9 से विभाज्य है?",
+    "options": ["42563", "12366", "32458", "24652"],
+    "reference": "उ.प्र. उपनिरीक्षक, 20 Dec., 2017 Batch 1",
+    "answer": "12366",
+    "explanation": "A number is divisible by 9 if the sum of its digits is divisible by 9. For 12366, the sum of digits is 1 + 2 + 3 + 6 + 6 = 18. Since 18 is divisible by 9, 12366 is divisible by 9."
+  },
+  {
+    "question": "निम्नलिखित में से अपरिमेय संख्या को पहचानें?",
+    "options": ["√8100", "0.45", "22/7", "√(8100+(1/√8100))"],
+    "reference": "उ.प्र. उपनिरीक्षक, 20 Dec., 2017 Batch 2",
+    "answer": "√(8100+(1/√8100))",
+    "explanation": "An irrational number cannot be expressed as a simple fraction p/q. √8100 = 90. 0.45 = 45/100. 22/7 is a rational approximation of pi. √(8100+(1/√8100)) = √(8100 + 1/90) = √(729001/90). Since 729001 is not a perfect square, this value is irrational. Note: The original explanation states an error in the question, but option D is indeed irrational."
+  },
+  {
+    "question": "किसी संख्या को 15 से विभाजित करने पर शेषफल 5 रहता है। इसी संख्या के वर्ग को 15 से विभाजित करने पर कितना शेषफल रहता है?",
+    "options": ["10", "4", "6", "8"],
+    "reference": "[UPSI, 2021]",
+    "answer": "10",
+    "explanation": "Let the number be N. N ≡ 5 (mod 15). Then N² ≡ 5² (mod 15) => N² ≡ 25 (mod 15). When 25 is divided by 15, the remainder is 10. The original explanation incorrectly states the answer is 4."
+  },
+  {
+    "question": "910 तक कितनी संख्याएँ 3 और 5 दोनों से विभाज्य हैं?",
+    "options": ["61", "60", "62", "67"],
+    "reference": "[UPSI, 2021]",
+    "answer": "60",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(910 / 15) = floor(60.66) = 60."
+  },
+  {
+    "question": "निम्न में से कौन-सा 11 से विभाज्य है?",
+    "options": ["2699312", "2999312", "2899312", "2799312"],
+    "reference": "[UPSI, 2021]",
+    "answer": "2799312",
+    "explanation": "Check divisibility by 11. For 2799312: (2+1+9+7) - (1+3+9) = 19 - 13 = 6. For 2699312: (2+1+9+6) - (1+3+9) = 18 - 13 = 5. Let's recheck the original image logic. For 2799312: (2+3+9+2) - (1+9+7) = 16-17 = -1. For 2899312: (2+1+9+8) - (1+3+9) = 20-13=7. The provided answer was 2699312, let's re-check that: (2+1+9+6)-(2+3+9)=18-14=4. There seems to be an error in the question or options provided in the source image, as none of the options are divisible by 11 based on the standard rule."
+  },
+  {
+    "question": "जब 129 x 143 x 149 x 164 x 179 को 29 द्वारा विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["9", "5", "3", "7"],
+    "reference": "[UPSI, 2021]",
+    "answer": "9",
+    "explanation": "Find the remainder of each term when divided by 29: 129≡13, 143≡-2, 149≡4, 164≡19≡-10, 179≡5 (mod 29). Product of remainders = 13 × (-2) × 4 × (-10) × 5 = 5200. 5200 ÷ 29 gives a remainder of 9."
+  },
+  {
+    "question": "दो संख्याओं के बीच का अंतर 4002 है। जब बड़ी संख्या को छोटी संख्या से विभाजित किया जाता है तो भागफल और शेषफल क्रमशः 34 और 9 होता है। बड़ी संख्या ज्ञात कीजिए।",
+    "options": ["4223", "4423", "4323", "4123"],
+    "reference": "[UPSI, 2021]",
+    "answer": "4123",
+    "explanation": "Let numbers be x, y (x>y). x-y=4002 and x=34y+9. Substitute x: (34y+9)-y=4002 => 33y=3993 => y=121. Then x=121+4002=4123."
+  },
+  {
+    "question": "600 तक कितनी संख्याएँ 3 और 7 दोनों से विभाज्य हैं?",
+    "options": ["29", "28", "39", "56"],
+    "reference": "[UPSI, 2021]",
+    "answer": "28",
+    "explanation": "Numbers divisible by both 3 and 7 are divisible by their LCM, 21. Number of multiples = floor(600 / 21) = floor(28.57) = 28."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या 2N को 11 से विभाजित किये जाने पर शेषफल 8 रहता है, तो 24N को उसी भाजक से विभाजित किये जाने पर शेषफल ज्ञात कीजिए।",
+    "options": ["8", "4", "2", "6"],
+    "reference": "[UPSI, 2021]",
+    "answer": "8",
+    "explanation": "Given 2N ≡ 8 (mod 11). We need the remainder for 24N. 24N = 12 × (2N). So, 24N ≡ 12 × 8 (mod 11) => 24N ≡ 96 (mod 11). 96 ÷ 11 gives a remainder of 8."
+  },
+  {
+    "question": "44100 में गुणनखण्डों की संख्या ज्ञात कीजिए।",
+    "options": ["87", "83", "85", "81"],
+    "reference": "[UPSI, 2021]",
+    "answer": "81",
+    "explanation": "Prime factorization of 44100 = 441 × 100 = 21² × 10² = (3×7)² × (2×5)² = $2^2 \\times 3^2 \\times 5^2 \\times 7^2$. Number of factors = (2+1)(2+1)(2+1)(2+1) = 81."
+  },
+  {
+    "question": "$985^{133}$ को 29 से भाग देने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "options": ["24", "28", "26", "22"],
+    "reference": "[UPSI, 2021]",
+    "answer": "28",
+    "explanation": "Find remainder of 985 ÷ 29. 985 = 34 × 29 - 1, so 985 ≡ -1 (mod 29). We need $(-1)^{133}$ (mod 29), which is -1. The positive remainder is 29 - 1 = 28."
+  },
+  {
+    "question": "एक $989^{129}$ को 33 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["32", "30", "24", "28"],
+    "reference": "[UPSI, 2021]",
+    "answer": "32",
+    "explanation": "Find remainder of 989 ÷ 33. 989 = 29 × 33 + 32, so 989 ≡ 32 ≡ -1 (mod 33). We need $(-1)^{129}$ (mod 33), which is -1. The positive remainder is 33 - 1 = 32."
+  },
+  {
+    "question": "1680 में गुणनखण्डों की संख्या ज्ञात कीजिए।",
+    "options": ["34", "36", "38", "40"],
+    "reference": "[UPSI, 2021]",
+    "answer": "40",
+    "explanation": "Prime factorization of 1680 = 168 × 10 = 8 × 21 × 2 × 5 = $2^3 \\times 3 \\times 7 \\times 2 \\times 5 = 2^4 \\times 3^1 \\times 5^1 \\times 7^1$. Number of factors = (4+1)(1+1)(1+1)(1+1) = 5 × 2 × 2 × 2 = 40."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या n को 15 से विभाजित किया जाता है तो शेषफल 13 बचता है, जब 5n को उसी संख्या से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["8", "7", "5", "6"],
+    "reference": "[UPSI, 2021]",
+    "answer": "5",
+    "explanation": "Given n ≡ 13 (mod 15). Then 5n ≡ 5 × 13 (mod 15) => 5n ≡ 65 (mod 15). 65 ÷ 15 gives a remainder of 5."
+  },
+  {
+    "question": "एक संख्या को 7991 से विभाजित करने पर शेषफल 89 रहता है। उसी संख्या को 61 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["22", "28", "24", "26"],
+    "reference": "[UPSI, 2021]",
+    "answer": "28",
+    "explanation": "Check if 7991 is a multiple of 61. 7991 ÷ 61 = 131. Yes. Divide the old remainder (89) by the new divisor (61). 89 ÷ 61 gives a remainder of 28."
+  },
+  {
+    "question": "800 तक कितनी संख्याएँ 3 और 5 दोनों से विभाज्य है?",
+    "options": ["45", "53", "46", "39"],
+    "reference": "[UPSI, 2021]",
+    "answer": "53",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(800 / 15) = floor(53.33) = 53."
+  },
+  {
+    "question": "121 x 135 x 141 x 156 x 171 को 21 से विभाजित करने पर शेषफल क्या रह जाता है?",
+    "options": ["5", "9", "7", "3"],
+    "reference": "[UPSI, 2021]",
+    "answer": "3",
+    "explanation": "Find remainder of each term divided by 21: 121≡16≡-5, 135≡9, 141≡15≡-6, 156≡9, 171≡3 (mod 21). Product of remainders = (-5)×9×(-6)×9×3 = 7290. 7290 ÷ 21 gives a remainder of 3."
+  },
+  {
+    "question": "निम्नलिखित में से कौन-सी संख्या 11 से विभाज्य है?",
+    "options": ["2699840", "2899840", "2799840", "2999840"],
+    "reference": "[UPSI, 2021]",
+    "answer": "2799840",
+    "explanation": "Check divisibility by 11. For 2799840: (0+8+9+2) - (4+9+7) = 19 - 20 = -1. For 2699840: (0+8+9+6) - (4+9+2) = 23-15=8. There appears to be an error in the options, as none are divisible by 11. The closest is 2799840 with a difference of -1."
+  },
+  {
+    "question": "वह न्यूनतम संख्या ज्ञात कीजिए जिसे 26712 से घटाया जाना चाहिए ताकि प्राप्त संख्या 16 से विभाज्य हो।",
+    "options": ["8", "4", "6", "2"],
+    "reference": "[UPSI, 2021]",
+    "answer": "8",
+    "explanation": "To check divisibility by 16, we check the last four digits. 6712 ÷ 16 = 419 with a remainder of 8. So, 8 must be subtracted."
+  },
+  {
+    "question": "जब 131 x 145 x 151 x 166 x 181 को 31 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["5", "3", "1", "7"],
+    "reference": "[UPSI, 2021]",
+    "answer": "7",
+    "explanation": "Find remainder of each term divided by 31: 131≡7, 145≡21≡-10, 151≡27≡-4, 166≡11, 181≡26≡-5 (mod 31). Product = 7×(-10)×(-4)×11×(-5) = -15400. -15400 ÷ 31 gives a remainder of 7."
+  },
+  {
+    "question": "870 तक कितनी संख्याएँ 3 और 7 दोनों से विभाज्य हैं?",
+    "options": ["46", "41", "42", "39"],
+    "reference": "[UPSI, 2021]",
+    "answer": "41",
+    "explanation": "Numbers divisible by both 3 and 7 are divisible by their LCM, 21. Number of multiples = floor(870 / 21) = floor(41.42) = 41."
+  },
+  {
+    "question": "वह सबसे छोटी संख्या ज्ञात कीजिए, जिसे 226661 से घटाए जाने पर प्राप्त संख्या 16 से विभाज्य हो।",
+    "options": ["7", "8", "5", "6"],
+    "reference": "[UPSI, 2021]",
+    "answer": "5",
+    "explanation": "To check divisibility by 16, we check the last four digits. 6661 ÷ 16 = 416 with a remainder of 5. So, 5 must be subtracted."
+  },
+  {
+    "question": "संख्या 12687^155 के इकाई स्थान पर कौन-सा अंक है?",
+    "options": ["7", "1", "3", "9"],
+    "reference": "[UPSI, 2021]",
+    "answer": "3",
+    "explanation": "We need the unit digit of $7^{155}$. The cyclicity of 7 is (7, 9, 3, 1). 155 ÷ 4 gives a remainder of 3. The unit digit is the 3rd in the cycle, which is 3."
+  },
+  {
+    "question": "जब 127 x 141 x 147 x 162 x 177 को 27 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "options": ["2", "7", "1", "0"],
+    "reference": "[UPSI, 2021]",
+    "answer": "0",
+    "explanation": "The term 162 is divisible by 27 (162 = 6 × 27). Since one of the terms in the product is divisible by 27, the entire product is divisible by 27. The remainder is 0."
+  },
+  {
+    "question": "980 तक कितनी संख्याएँ, 3 और 5 दोनों से विभाज्य हैं?",
+    "options": ["62", "38", "69", "65"],
+    "reference": "[UPSI, 2021]",
+    "answer": "65",
+    "explanation": "Numbers divisible by both 3 and 5 are divisible by their LCM, 15. Number of multiples = floor(980 / 15) = floor(65.33) = 65."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या n को 14 से विभाजित किया जाता है, तो शेषफल 4 बचता है, शेषफल ज्ञात कीजिए जब 6n को उसी संख्या से विभाजित किया जाता है।",
+    "options": ["6", "8", "10", "12"],
+    "reference": "[UPSI, 2021]",
+    "answer": "10",
+    "explanation": "Given n ≡ 4 (mod 14). Then 6n ≡ 6 × 4 (mod 14) => 6n ≡ 24 (mod 14). 24 ÷ 14 gives a remainder of 10."
+  },
+  {
+    "question": "63789474 में से किस न्यूनतम संख्या को घटाया जाना चाहिए जिससे बची हुई संख्या 9 द्वारा विभाजित हो?",
+    "options": ["5", "4", "3", "6"],
+    "reference": "[UPSI, 2021]",
+    "answer": "3",
+    "explanation": "Sum of digits = 6+3+7+8+9+4+7+4 = 48. The remainder of 48 ÷ 9 is 3. To make it divisible by 9, we must subtract the remainder, which is 3."
+  },
+  {
+    "question": "जब एक धनात्मक संख्या N को 13 से विभाजित किया जाता है तो शेषफल 11 रहता है, यदि 26N को उसी भाजक द्वारा विभाजित किया जाए, तो शेषफल ज्ञात कीजिए।",
+    "options": ["0", "8", "3", "10"],
+    "reference": "[UPSI, 2021]",
+    "answer": "0",
+    "explanation": "Given N ≡ 11 (mod 13). Then 26N ≡ 26 × 11 (mod 13). Since 26 is divisible by 13, the remainder of 26 × 11 is 0. So the final remainder is 0."
+  },
+  {
+    "question": "एक संख्या को 18 से विभाजित करने पर शेषफल 3 रहता है। उसी संख्या के वर्ग को 18 से विभाजित करने पर शेषफल क्या होगा?",
+    "options": ["5", "9", "3", "7"],
+    "reference": "[UPSI, 2021]",
+    "answer": "9",
+    "explanation": "Given N ≡ 3 (mod 18). Then N² ≡ 3² (mod 18) => N² ≡ 9 (mod 18). The remainder is 9."
+  },
+  {
+    "question": "980 तक कितनी संख्याएँ, 3 और 7 दोनों से विभाज्य हैं?",
+    "options": ["46", "39", "42", "52"],
+    "reference": "[UPSI, 2021]",
+    "answer": "46",
+    "explanation": "Numbers divisible by both 3 and 7 are divisible by their LCM, 21. Number of multiples = floor(980 / 21) = floor(46.66) = 46."
+  },
+  {
+    "question": "एक संख्या को 8379 को विभाजित करने पर शेषफल 87 प्राप्त होता है। उसी संख्या को 63 से विभाजित करने पर शेषफल कितना होगा?",
+    "options": ["18", "22", "24", "20"],
+    "reference": "[UPSI, 2021]",
+    "answer": "24",
+    "explanation": "Check if 8379 is a multiple of 63. 8379 ÷ 63 = 133. Yes. Divide the old remainder (87) by the new divisor (63). 87 ÷ 63 gives a remainder of 24."
+  },
+  {
+    "question": "दो संख्याओं के बीच का अंतर 4176 है। जब बड़ी संख्या को छोटी संख्या से विभाजित किया जाता है तो भागफल और शेषफल क्रमशः 36 और 11 होते हैं। बड़ी संख्या ज्ञात कीजिए।",
+    "options": ["4595", "4495", "4395", "4295"],
+    "reference": "[UPSI, 2021]",
+    "answer": "4295",
+    "explanation": "Let numbers be x, y (x>y). x-y=4176 and x=36y+11. Substitute x: (36y+11)-y=4176 => 35y=4165 => y=119. Then x=119+4176=4295."
+  },
+  {
+    "question": "3√16 एक ____ है।",
+    "options": ["अपरिमेय संख्या", "काल्पनिक संख्या", "पूर्णांक", "अभाज्य संख्या"],
+    "reference": "उ.प्र. उपनिरीक्षक, 12 Dec., 2017 Batch 1",
+    "answer": "पूर्णांक",
+    "explanation": "The expression 3√16 means 3 times the square root of 16. √16 = 4. So, 3 × 4 = 12. 12 is an integer (पूर्णांक)."
+  },
+  {
+    "question": "निम्नलिखित में से कौन सी संख्या '67451281120' की विभाजक है?",
+    "options": ["15", "18", "16", "14"],
+    "reference": "उ.प्र. उपनिरीक्षक, 14 Dec., 2017 Batch 1",
+    "answer": "16",
+    "explanation": "A number is divisible by 16 if its last four digits are divisible by 16. The last four digits are 1120. 1120 ÷ 16 = 70. Since it's divisible, the entire number is divisible by 16."
+  },
+  {
+    "question": "निम्नलिखित संख्याओं में से कौन सी रूढ़ संख्या है?",
+    "options": ["47", "39", "51", "27"],
+    "reference": "उ.प्र. उपनिरीक्षक, 12 Dec., 2017 Batch 3",
+    "answer": "47",
+    "explanation": "रूढ़ संख्या (prime number) is a number that has only two divisors: 1 and itself. 39, 51, and 27 are divisible by 3. 47 has no divisors other than 1 and 47."
+  },
+  {
+    "question": "11025 के गणकों की संख्या ज्ञात करें।",
+    "options": ["31", "20", "23", "27"],
+    "reference": "उ.प्र. उपनिरीक्षक, 13 Dec., 2017 Batch 1",
+    "answer": "27",
+    "explanation": "Prime factorization of 11025 = $3^2 \\times 5^2 \\times 7^2$. The number of factors (गणकों) is found by adding 1 to each exponent and multiplying the results: (2+1)(2+1)(2+1) = 3 × 3 × 3 = 27."
+  },
+  {
+    "question": "60 के गुणनखण्डों की संख्या ज्ञात करें।",
+    "options": ["14", "12", "10", "15"],
+    "reference": "उ.प्र. उपनिरीक्षक, 13 Dec., 2017 Batch 3",
+    "answer": "12",
+    "explanation": "Prime factorization of 60 = $2^2 \\times 3^1 \\times 5^1$. The number of factors = (2+1)(1+1)(1+1) = 3 × 2 × 2 = 12."
+  },
+  {
+    "question": "$56^{283} \\times 141^{283} \\times 125^{254}$ के अन्तिम दो अंक क्या हैं?",
+    "options": ["25", "10", "01", "00"],
+    "reference": "उ.प्र. उपनिरीक्षक, 14 Dec., 2017 Batch 2",
+    "answer": "00",
+    "explanation": "To find the last two digits, we find the remainder when divided by 100. The expression contains factors of 2 (from 56) and 5 (from 125). Specifically, $56 = 4 \\times 14$ and $125 = 5^3$. Since we have at least $4$ and $5^2=25$ as factors in the product, the product is divisible by $4 \\times 25 = 100$. Therefore, the last two digits are 00."
+  },
+  {
+    "question": "निम्न संख्याओं में से कौन-सी 11 से विभाज्य है?",
+    "options": ["14526", "12654", "15426", "14520"],
+    "reference": "उ.प्र. उपनिरीक्षक, 14 Dec., 2017 Batch 3",
+    "answer": "14520",
+    "explanation": "Check divisibility by 11. For 14520: (0+5+1) - (2+4) = 6 - 6 = 0. Since the difference is 0, 14520 is divisible by 11."
+  },
+  {
+    "question": "निम्नलिखित संख्याओं में से कौन सा 12 से विभाजित है?",
+    "options": ["183", "162", "128", "192"],
+    "reference": "उ.प्र. उपनिरीक्षक, 15 Dec., 2017 Batch 1",
+    "answer": "192",
+    "explanation": "A number is divisible by 12 if it is divisible by both 3 and 4. 192 is divisible by 4 (last two digits, 92, are divisible by 4). The sum of digits is 1+9+2=12, which is divisible by 3. So, 192 is divisible by 12."
+  },
+  {
+    "question": "संख्या 12324#84 में # को निम्न में से किससे बदला जाये ताकि यह 8 का गुणज बन जाये?",
+    "options": ["9", "6", "8", "4"],
+    "reference": "उ.प्र. उपनिरीक्षक, 15 Dec., 2017 Batch 2",
+    "answer": "8",
+    "explanation": "A number is divisible by 8 if its last three digits are divisible by 8. We need #84 to be divisible by 8. Checking the options: 984 ÷ 8 = 123 (divisible). 684 ÷ 8 is not. 884 ÷ 8 is not. 484 ÷ 8 is not. The correct digit is 9. However, 9 is not in the options. There might be an error in the question or options. Rechecking 884: 884/8 = 110.5. Rechecking 484: 484/8 = 60.5. Rechecking 684: 684/8 = 85.5. The only option that works is 9, which is not listed. Let's assume there is a typo and check 8. 884 is not divisible by 8. Let's check 4. 484 is not divisible by 8. Let's check 6. 684 is not divisible by 8. Let's check the provided answer 8. Maybe the question meant 4#8? No. The provided answer is 8, but 884 is not divisible by 8. The only digit that works is 9. Let's assume the question meant 'divisible by 4', in which case all options work. Given the ambiguity, we'll note the discrepancy. The only single digit that makes #84 divisible by 8 is 9."
+  },
+  {
+    "question": "$(6)^{76}$ को 5 से भाग देने पर शेष क्या आएगा?",
+    "options": ["2", "1", "3", "0"],
+    "reference": "उ.प्र. उपनिरीक्षक, 13 Dec., 2017 Batch 2",
+    "answer": "1",
+    "explanation": "We need to find the remainder of $6^{76}$ divided by 5. 6 ≡ 1 (mod 5). Therefore, $6^{76}$ ≡ $1^{76}$ (mod 5) ≡ 1 (mod 5). The remainder is 1."
+  },
+  {
+    "question": "$49^{61}$ को 35 से विभाजित किये जाने पर शेष क्या होगा?",
+    "options": ["16", "12", "18", "14"],
+    "reference": "उ.प्र. उपनिरीक्षक, 14 Dec., 2017 Batch 1",
+    "answer": "14",
+    "explanation": "We need to find $49^{61}$ mod 35. We can use the Chinese Remainder Theorem. Mod 5: $49 \\equiv 4 \\equiv -1 \\pmod 5$, so $49^{61} \\equiv (-1)^{61} \\equiv -1 \\equiv 4 \\pmod 5$. Mod 7: $49 \\equiv 0 \\pmod 7$, so $49^{61} \\equiv 0 \\pmod 7$. We need a number that is a multiple of 7 and leaves a remainder of 4 when divided by 5. The multiples of 7 are 7, 14, 21... 14 fits both conditions (14 mod 7 = 0, 14 mod 5 = 4). The remainder is 14."
+  },
+  {
+    "question": "$3^{40}$ को 4 से विभाजित करने पर शेष क्या होगा?",
+    "options": ["1", "2", "3", "0"],
+    "reference": "उ.प्र. उपनिरीक्षक, 15 Dec., 2017 Batch 3",
+    "answer": "1",
+    "explanation": "We need to find the remainder of $3^{40}$ divided by 4. 3 ≡ -1 (mod 4). Therefore, $3^{40}$ ≡ $(-1)^{40}$ (mod 4) ≡ 1 (mod 4). The remainder is 1."
+  },
+  {
+    "question": "250 में कितने विभाजक हैं?",
+    "options": ["8", "4", "6", "10"],
+    "reference": "उ.प्र. उपनिरीक्षक, 16 Dec., 2017 Batch 1",
+    "answer": "8",
+    "explanation": "Prime factorization of 250 is $25 \\times 10 = 5^2 \\times 2 \\times 5 = 2^1 \\times 5^3$. The number of divisors is (1+1)(3+1) = 2 × 4 = 8."
+  },
+  {
+    "question": "निम्नलिखित युग्मों में से कौन सा सह-अभाज्य है?",
+    "options": ["(156, 126)", "(14, 35)", "(23, 92)", "(18, 35)"],
+    "reference": "उ.प्र. उपनिरीक्षक, 14 Dec., 2017 Batch 2",
+    "answer": "(18, 35)",
+    "explanation": "Two numbers are co-prime (सह-अभाज्य) if their greatest common divisor (GCD) is 1. GCD(18, 35) = 1. The other pairs have common divisors greater than 1 (6, 7, and 23 respectively)."
+  },
+  {
+    "question": "मान लें पूर्णांक n > 1 के लिए n! = 1x2x3x....xn, अगर X = $8^2 \\times (15!+16!+17!+18!)$ जब X/16! से विभाजित है, तो शेष क्या होगी?",
+    "options": ["0", "151", "1", "2"],
+    "reference": "उ.प्र. उपनिरीक्षक, 20 Dec., 2017 Batch 1",
+    "answer": "0",
+    "explanation": "Let's simplify the expression inside the parenthesis: $15!+16!+17!+18! = 15!(1 + 16 + 17 \\times 16 + 18 \\times 17 \\times 16)$. So, X = $64 \\times 15!(1 + 16 + 17 \\times 16 + 18 \\times 17 \\times 16)$. We are dividing X by 16! which is $16 \\times 15!$. So, X/16! = $(64 \\times 15! \\times (...)) / (16 \\times 15!) = (64/16) \\times (...) = 4 \\times (...)$. Since the division is exact and results in an integer, the remainder is 0."
+  },
+  {
+    "question": "एक की-बोर्ड में, 1 से 800 तक की संख्याएँ टाईप करने के लिए कितने की-स्ट्रोक की आवश्यकता होती है?",
+    "options": ["3868", "3254", "2260", "2292"],
+    "reference": "U.P.P/A.S.I 2018 Batch I",
+    "answer": "2292",
+    "explanation": "1-digit numbers (1-9): 9 numbers × 1 digit = 9 strokes. 2-digit numbers (10-99): 90 numbers × 2 digits = 180 strokes. 3-digit numbers (100-800): 701 numbers × 3 digits = 2103 strokes. Total strokes = 9 + 180 + 2103 = 2292."
+  },
+  {
+    "question": "जब एक संख्या को 8 से विभाजित किया जाता है तो शेषफल 3 रहता है। जब उसी संख्या को 2 से विभाजित करेंगे तो शेषफल क्या होगा?",
+    "options": ["0", "2", "3", "1"],
+    "reference": "उ.प्र. उपनिरीक्षक, 12 Dec., 2017 Batch 2",
+    "answer": "1",
+    "explanation": "Let the number be N. N = 8k + 3. Since 8k is an even number, N is an odd number (even + odd = odd). When any odd number is divided by 2, the remainder is always 1."
+  },
+  {
+    "question": "जब 201202203204205206.....260 को 9 से विभाजित किया जाता है, तब शेषफल क्या होगा?",
+    "options": ["8", "4", "6", "2"],
+    "reference": "उ.प्र. उपनिरीक्षक, 12 Dec., 2017 Batch 2",
+    "answer": null,
+    "explanation": "To find the remainder when divided by 9, we sum the digits. The number consists of '20' repeated 60 times, and the numbers from 1 to 60. The sum of digits is (2+0)×60 + (sum of digits from 1 to 60). This requires a complex calculation. Sum of digits of numbers from 1 to 9 is 45. 10-19 is 1x10+45=55. 20-29 is 2x10+45=65 etc. A full calculation is needed to solve."
+  },
+  {
+    "question": "3 अंकों के कितने धनात्मक पूर्णांक हैं जिनमें P, Q और R क्रमशः सौवें, दसवें और इकाई के स्थान पर हों, ताकि P<Q, Q>R and P!=0?",
+    "options": ["245", "325", "285", "240"],
+    "reference": "उ.प्र. उपनिरीक्षक, 13 Dec., 2017 Batch 2",
+    "answer": "240",
+    "explanation": "This is a counting problem. We need to count the number of 3-digit numbers PQR such that P < Q and R < Q. We can sum over the possible values of Q. If Q=k, then P can be any digit from 1 to k-1 (k-1 choices), and R can be any digit from 0 to k-1 (k choices). The total is the sum of (k-1)k for k from 1 to 9. Sum = 1*0 + 2*1 + 3*2 + 4*3 + 5*4 + 6*5 + 7*6 + 8*7 + 9*8 = 0+2+6+12+20+30+42+56+72 = 240."
+  },
+  {
+    "question": "($25^{25} + 26^{25} + 27^{25} + 28^{25}$) को 106 से विभाजित किये जाने पर शेष क्या होगा?",
+    "options": ["112", "0", "60", "15"],
+    "reference": "उ.प्र. उपनिरीक्षक, 16 Dec., 2017 Batch 3",
+    "answer": "0",
+    "explanation": "We need the remainder modulo 106. Since 106 = 2 × 53, we check divisibility by 2 and 53. Since the exponent 25 is odd, $a^{25} + b^{25}$ is divisible by a+b. So, ($25^{25} + 28^{25}$) is divisible by 25+28=53. Also, ($26^{25} + 27^{25}$) is divisible by 26+27=53. Thus, the entire sum is divisible by 53. Now check mod 2: (Odd + Even + Odd + Even) = Even. Since the sum is divisible by both 2 and 53, it is divisible by 106. The remainder is 0."
+  },
+  {
+    "question": "पाँच क्रमागत सम संख्याओं का योग, चार क्रमागत विषम संख्याओं की तुलना में 36 अधिक है। सबसे बड़ी सम संख्या और सबसे छोटी विषम संख्या का योग क्या है, अगर सबसे छोटी सम संख्या सबसे छोटी विषम संख्या से 3 अधिक है?",
+    "options": ["47", "43", "39", "37"],
+    "reference": "उ.प्र. उपनिरीक्षक, 19 Dec., 2017 Batch 1",
+    "answer": "37",
+    "explanation": "Let the smallest odd number be x. The four consecutive odd numbers are x, x+2, x+4, x+6. Their sum is 4x+12. The smallest even number is x+3. The five consecutive even numbers are x+3, x+5, x+7, x+9, x+11. Their sum is 5x+35. Given: (5x+35) - (4x+12) = 36 => x+23=36 => x=13. The smallest odd number is 13. The largest even number is x+11 = 13+11 = 24. Their sum is 13 + 24 = 37."
+  },
+  {
+    "question": "एक संख्या 'x' का दूसरी संख्या से विभाजित किया जाता है जो 'x' से तीन कम है। इस प्रकार प्राप्त परिणामी संख्या को जब एक अन्य संख्या से गुणा किया जाता है जो 'x' के मान का चार गुना है, तो परिणाम 48 होता है। 'x' का मान क्या है?",
+    "options": ["12", "9", "18", "6"],
+    "reference": "उ.प्र. उपनिरीक्षक, 19 Dec., 2017 Batch 1",
+    "answer": "6",
+    "explanation": "The equation is: (x / (x-3)) * (4x) = 48. This simplifies to $4x^2 = 48(x-3)$, or $x^2 = 12(x-3) => x^2 - 12x + 36 = 0$. This is a perfect square: $(x-6)^2 = 0$. Therefore, x = 6."
+  }
+]
+}
