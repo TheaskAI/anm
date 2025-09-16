@@ -1,0 +1,58 @@
+[
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">दो चरों के बीच सीधा प्रतिशत संबंध</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(x, y का प्रतिशत है, y, x का कितना प्रतिशत है)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सीधे समीकरण को सरल करें और वांछित अनुपात को 100 से गुणा करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "If x is 80% of y, what percent of x is y"</li><li><strong>हल:</strong><ol class="mt-1"><li>x = (80/100)y को x = (4/5)y या <strong>y = (5/4)x</strong> के रूप में व्यक्त करें।</li><li>फिर (y/x) * 100% की गणना करें: <strong>(5/4) * 100% = 125%</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">किसी अज्ञात संख्या के प्रतिशत के आधार पर मान ज्ञात करना</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> संख्या का दिया गया प्रतिशत मान उपयोग करके सीधे वांछित प्रतिशत मान ज्ञात करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "If 120 is 20% of a number, then 120% of that number will be:"</li><li><strong>हल:</strong><ol class="mt-1"><li>यदि 20% = 120, तो <strong>1% = 120/20 = 6</strong>।</li><li><strong>120% = 120 * 6 = 720</strong>।</li><li>(वैकल्पिक रूप से: (120/20) * 120 = 720)</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">शुद्ध प्रतिशत परिवर्तन</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(समान वृद्धि और कमी)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>(x² / 100)% हमेशा कमी होगी।</strong></li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "Salary of a person is first increased by 20%, then it is decreased by 20%. Then the percentage change in his salary is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>यहाँ x = 20%।</li><li>इसलिए, (20² / 100)% = (400 / 100)% = <strong>4% की कमी</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">सापेक्ष प्रतिशत अंतर</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(X, Y से अधिक है, Y, X से कितना कम है)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>(r / (100 + r)) * 100%</strong>।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "'X's income is 20% more than that of Y. What percent is Y's income less than X?"</li><li><strong>हल:</strong><ol class="mt-1"><li>यहाँ r = 20%।</li><li>(20 / (100 + 20)) * 100% = (20 / 120) * 100% = (1/6) * 100% = <strong>16 2/3%</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">यौगिक प्रतिशत गणना</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(प्रतिशत का प्रतिशत)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सभी प्रतिशत मानों को दशमलव या भिन्न रूप में परिवर्तित करके गुणा करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "0.15% of 33 1/3 % of Rs. 10000 is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>0.15% = 0.15/100</li><li>33 1/3% = 1/3</li><li>(0.15/100) * (1/3) * 10000 = <strong>5 रुपये</strong>। (स्रोत में 0.5 रुपये की गणना त्रुटि है, सही উত্তর 5 रुपये है)</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">बीजगणितीय प्रतिशत शब्द समस्या</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> प्रश्न में दिए गए संबंधों के आधार पर एक समीकरण स्थापित करें और x के लिए हल करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "The sum of the number of boys and girls in a school is 150. If the number of boys is x, the number of girls becomes x% of the total number of students. The number of boys is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>लड़कियों की संख्या (150 - x) है।</li><li>प्रश्नानुसार: (150 - x) = x% of 150।</li><li>(150 - x) = (x/100) * 150।</li><li>15000 - 100x = 150x।</li><li>250x = 15000।</li><li>x = 15000 / 250 = <strong>60</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">पास मार्क्स और अधिकतम मार्क्स की गणना</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> पास मार्क्स की गणना करें, फिर प्रतिशत से कुल मार्क्स ज्ञात करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "In an examination a candidate must secure 40% marks to pass. A candidate, who gets 220 marks, fails by 20 marks. Find the maximum marks for the examination?"</li><li><strong>हल:</strong><ol class="mt-1"><li>पास मार्क्स = 220 (प्राप्त) + 20 (जिससे फेल हुआ) = <strong>240</strong>।</li><li>यदि 40% = 240।</li><li>तो 100% = (240 / 40) * 100 = <strong>600</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">मूल संख्या ज्ञात करने के लिए सीधा प्रतिशत</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सीधे x के लिए समीकरण हल करें।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "30% of x is 72. The value of x is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>(30/100) * x = 72।</li><li>x = (72 * 100) / 30 = <strong>240</strong>।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">अनुक्रमिक प्रतिशत संबंधों से अनुपात</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> तीसरी संख्या को 100 मानकर अन्य संख्याओं की गणना करें और फिर अनुपात ज्ञात करें ।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "If A exceeds B by 40%, B is less than C by 20% then A:C is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>माना C = 100 ।</li><li>B, C से 20% कम है, तो B = 80 ।</li><li>A, B से 40% अधिक है, तो A = 80 + (40% of 80) = 80 + 32 = <strong>112</strong> ।</li><li>अतः, A:C = 112:100, जिसे सरल करने पर <strong>28:25</strong> आता है ।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">एक उपसमूह के प्रतिशत से कुल मात्रा</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> उपसमूह का प्रतिशत ज्ञात करें, फिर उस प्रतिशत मान का उपयोग करके कुल संख्या ज्ञात करें ।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "In a school 70% of the students are girls. The number of boys are 510. Then the total number of students in the school is:"</li><li><strong>हल:</strong><ol class="mt-1"><li>लड़कों का प्रतिशत = 100% - 70% = <strong>30%</strong> ।</li><li>यदि 30% = 510 ।</li><li>तो 100% = (510 / 30) * 100 = <strong>1700</strong> ।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">मूल्य/खपत समायोजन</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(कमी फिर वृद्धि)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>(r / (100 - r)) * 100%</strong>।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "The price of an article is decreased by 10%. To restore its former value the new price must be increased by:"</li><li><strong>हल:</strong><ol class="mt-1"><li>यहाँ r = 10% ।</li><li>(10 / (100 - 10)) * 100% = (10 / 90) * 100% = (1/9) * 100% = <strong>11 1/9%</strong> ।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">तीसरी संख्या के सापेक्ष संख्याओं की तुलना</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> तीसरी संख्या को 100 मानकर अन्य दो संख्याओं की गणना करें और फिर वांछित प्रतिशत ज्ञात करें ।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "Two numbers are respectively 25% and 20% less than a third number. What percent is the first number of the second?"</li><li><strong>हल:</strong><ol class="mt-1"><li>माना तीसरी संख्या = 100 ।</li><li>पहली संख्या = 100 - 25 = <strong>75</strong> ।</li><li>दूसरी संख्या = 100 - 20 = <strong>80</strong> ।</li><li>पहली संख्या, दूसरी का प्रतिशत = (75 / 80) * 100% = <strong>93.75% या 93 3/4%</strong> ।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">शुद्ध प्रतिशत परिवर्तन</h2><p class="mt-2 text-sm md:text-base opacity-90 text-center">(विभिन्न वृद्धि और कमी)</p>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>X + Y + (XY/100)</strong> (वृद्धि के लिए + और कमी के लिए -) ।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "A number is increased by 20% and then it is decreased by 10%. Find the net increase or decrease percent."</li><li><strong>हल:</strong><ol class="mt-1"><li>X = +20%, Y = -10% ।</li><li>20 - 10 + (20 * -10 / 100) = 10 - 2 = <strong>8%</strong> ।</li><li>परिणाम सकारात्मक है, इसलिए यह <strong>8% की वृद्धि</strong> है ।</li></ol></li></ul></div>`
+            },
+            {
+                front: `<h2 class="text-xl md:text-2xl font-bold text-center">वेन आरेख (पास/फेल)</h2>`,
+                back: `<div class="text-sm md:text-base text-left w-full"><h3 class="text-lg md:text-xl font-bold mb-2">हल:</h3><ul><li class="mb-2"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>कम से कम एक विषय में पास = पास(A) + पास(B) - पास(दोनों)</strong>, फिर 100% से घटा दें ।</li><li class="mb-2"><strong>उदाहरण प्रश्न:</strong> "In a class 60% of the students pass in Hindi and 45% pass in Sanskrit. If 25% of them pass in both subjects, what percentage of the students fails in both the subjects?"</li><li><strong>हल:</strong><ol class="mt-1"><li>कम से कम एक विषय में पास = 60% + 45% - 25% = <strong>80%</strong> (ये छात्र कम से कम एक विषय में पास हैं) ।</li><li>दोनों विषयों में फेल = 100% - 80% = <strong>20%</strong> ।</li></ol></li></ul></div>`
+            }
+        ]
