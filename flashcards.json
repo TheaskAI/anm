@@ -54,5 +54,43 @@
     {
         "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">वेन आरेख (पास/फेल)</h2>",
         "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">हल:</h3><ul><li class=\"mb-2\"><strong>सबसे छोटा तरीका:</strong> सूत्र का प्रयोग करें: <strong>कम से कम एक विषय में पास = पास(A) + पास(B) - पास(दोनों)</strong>, फिर 100% से घटा दें ।</li><li class=\"mb-2\"><strong>उदाहरण प्रश्न:</strong> \"In a class 60% of the students pass in Hindi and 45% pass in Sanskrit. If 25% of them pass in both subjects, what percentage of the students fails in both the subjects?\"</li><li><strong>हल:</strong><ol class=\"mt-1\"><li>कम से कम एक विषय में पास = 60% + 45% - 25% = <strong>80%</strong> (ये छात्र कम से कम एक विषय में पास हैं) ।</li><li>दोनों विषयों में फेल = 100% - 80% = <strong>20%</strong> ।</li></ol></li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">चार्टर एक्ट 1600</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(ईस्ट इंडिया कंपनी की स्थापना)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>स्थापना:</strong> ईस्ट इंडिया कंपनी (EIC) की स्थापना से संबंधित है।</li><li><strong>अधिकार:</strong> महारानी एलिजाबेथ ने 31 दिसंबर 1600 को EIC को पूर्वी देशों में 15 वर्षों तक व्यापार करने का एकाधिकार दिया।</li><li><strong>पुराना नाम:</strong> 'द गवर्नर एंड कंपनी ऑफ मर्चेंट्स ऑफ लंदन ट्रेडिंग इन ईस्ट इंडीज'।</li><li><strong>समकालीन शासक:</strong> स्थापना के समय भारत में अकबर का शासन था।</li><li><strong>नारा:</strong> कंपनी का प्रारंभिक नारा 'भूभाग नहीं सिर्फ व्यापार' था।</li><li><strong>संरचना:</strong> एक गवर्नर, एक उप-गवर्नर और 24 सदस्य (बोर्ड ऑफ डायरेक्टर्स)।</li><li><strong>अंत:</strong> 1858 के एक्ट से शक्तियाँ खत्म हुईं और 1874 में कंपनी पूर्णतः बंद हो गई।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">चार्टर एक्ट 1726</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(कानून बनाने की शक्ति)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य प्रावधान:</h3><p>कलकत्ता, बंबई और मद्रास प्रेसीडेंसी के गवर्नरों को ईस्ट इंडिया कंपनी के लिए कानून बनाने की शक्ति दी गई।</p></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">रेगुलेटिंग एक्ट 1773</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(कंपनी पर संसदीय नियंत्रण)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>उद्देश्य:</strong> EIC में व्याप्त भ्रष्टाचार को दूर करने के लिए ब्रिटिश पीएम नॉर्थ की गुप्त समिति की सिफारिशों पर लाया गया।</li><li><strong>पदनाम परिवर्तन:</strong> बंगाल का गवर्नर अब 'बंगाल का गवर्नर जनरल' कहलाया (पहले - वारेन हेस्टिंग्स)।</li><li><strong>केंद्रीकरण:</strong> मद्रास और बंबई के गवर्नर को बंगाल के गवर्नर जनरल के अधीन किया गया।</li><li><strong>कार्यकारी परिषद:</strong> गवर्नर जनरल की सहायता के लिए चार सदस्यीय कार्यकारी परिषद का गठन।</li><li><strong>न्यायपालिका:</strong> 1774 में कलकत्ता में सर्वोच्च न्यायालय की स्थापना (मुख्य न्यायाधीश - एलिजा इम्पे)।</li><li><strong>प्रतिबंध:</strong> कर्मचारियों के निजी व्यापार, रिश्वत और उपहार लेने पर रोक।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">एक्ट ऑफ सेटलमेंट 1781</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(शक्तियों का पृथक्करण)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य प्रावधान:</h3><p>कार्यपालिका से न्यायपालिका का पृथक्करण। गवर्नर जनरल के कार्यों में सुप्रीम कोर्ट हस्तक्षेप नहीं करेगा। (यह भारतीय संविधान के अनुच्छेद 50 का आधार बना)।</p></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">पिट्स इंडिया एक्ट 1784</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(द्वैध शासन की शुरुआत)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>द्वैध शासन:</strong> कंपनी के व्यापारिक और राजनीतिक कार्य अलग-अलग कर दिए गए।</li><li><strong>व्यापारिक मामले:</strong> बोर्ड ऑफ डायरेक्टर्स (BOD)।</li><li><strong>राजनीतिक मामले:</strong> बोर्ड ऑफ कंट्रोलर्स (BOC)।</li><li><strong>'ब्रिटिश भारत':</strong> पहली बार कंपनी द्वारा अर्जित क्षेत्र को 'ब्रिटिश भारत' कहा गया।</li><li><strong>परिषद में बदलाव:</strong> गवर्नर जनरल की परिषद में सदस्यों की संख्या 4 से घटाकर 3 कर दी गई।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">एक्ट 1786</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(गवर्नर जनरल की शक्तियों में वृद्धि)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य प्रावधान:</h3><ul class=\"list-disc pl-5\"><li><strong>वीटो पावर:</strong> विशेष परिस्थितियों में अपनी परिषद का निर्णय निरस्त करने का अधिकार।</li><li><strong>कमांडर-इन-चीफ:</strong> यह पद भी गवर्नर जनरल के पास रहेगा।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">चार्टर एक्ट 1813</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(व्यापार एकाधिकार की समाप्ति)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>व्यापार:</strong> EIC का व्यापार पर एकाधिकार समाप्त, लेकिन चाय और चीन के साथ व्यापार पर बना रहा।</li><li><strong>धर्म प्रचार:</strong> ईसाई मिशनरियों को भारत में धर्म प्रचार की छूट दी गई।</li><li><strong>शिक्षा:</strong> भारतीयों की शिक्षा पर ₹1 लाख वार्षिक खर्च करने का प्रावधान।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">चार्टर एक्ट 1833</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(केंद्रीकरण का चरम)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>पदनाम परिवर्तन:</strong> बंगाल का गवर्नर जनरल अब 'भारत का गवर्नर जनरल' कहलाया (पहले - विलियम बेंटिक)।</li><li><strong>विधि आयोग:</strong> गवर्नर जनरल की परिषद में चौथे विधि सदस्य (मैकाले) को शामिल किया गया। 1834 में मैकाले की अध्यक्षता में प्रथम विधि आयोग का गठन।</li><li><strong>व्यापार का अंत:</strong> कंपनी का व्यापार पर अधिकार (चाय और चीन सहित) पूर्णतः खत्म।</li><li><strong>सामाजिक सुधार:</strong> दास प्रथा का उन्मूलन किया गया।</li></ul></div>"
+    },
+    {
+        "front": "<h2 class=\"text-2xl md:text-3xl font-bold text-center\">चार्टर एक्ट 1853</h2><p class=\"mt-3 text-base md:text-lg opacity-90 text-center\">(विधायिका और सिविल सेवा)</p>",
+        "back": "<div class=\"text-base md:text-lg text-left w-full\"><h3 class=\"text-xl md:text-2xl font-bold mb-3\">मुख्य बिंदु:</h3><ul class=\"list-disc pl-5\"><li><strong>विधायिका:</strong> केंद्रीय विधान परिषद की स्थापना। परिषद के विधायी और कार्यकारी कार्य अलग-अलग किए गए।</li><li><strong>सिविल सेवा:</strong> सिविल सेवकों की भर्ती प्रतियोगिता के आधार पर होगी।</li><li><strong>कंपनी पर नियंत्रण:</strong> बोर्ड ऑफ डायरेक्टर्स (BOD) के सदस्यों की संख्या 24 से घटाकर 18 कर दी गई, जिनमें से 6 सदस्य ब्रिटिश क्राउन द्वारा नामांकित होंगे।</li></ul></div>"
     }
+
+
 ]
